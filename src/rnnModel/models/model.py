@@ -5,6 +5,7 @@ from rnnModel.data.make_dataset import make_charmap
 class RNN:
     def __init__(self, m = 100, eta = 0.1, epsilon = 1e-8, seq_length = 25, data_path = "./data/goblet_book.txt", autograd = False) -> None:
         ## Constants
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.m = m  # dimensionality of the hidden state
         self.eta = eta  # learning rate
         self.epsilon = epsilon  # for AdaGrad
@@ -13,14 +14,14 @@ class RNN:
 
         ## Parameters
         # bias vectors
-        self.b = torch.zeros((self.m, 1), dtype=torch.double)
-        self.c = torch.zeros((self.K, 1), dtype=torch.double)
+        self.b = torch.zeros((self.m, 1), dtype=torch.double, device=self.device)
+        self.c = torch.zeros((self.K, 1), dtype=torch.double, device=self.device)
         # weight matrices
         sig = 0.01
-        self.U = torch.normal(0.0, sig, (self.m, self.K), dtype=torch.double)
-        self.W = torch.normal(0.0, sig, (self.m, self.m), dtype=torch.double)
-        self.V = torch.normal(0.0, sig, (self.K, self.m), dtype=torch.double)
-        self.h0 = torch.zeros((self.m, 1), dtype=torch.double)
+        self.U = torch.normal(0.0, sig, (self.m, self.K), dtype=torch.double, device=self.device)
+        self.W = torch.normal(0.0, sig, (self.m, self.m), dtype=torch.double, device=self.device)
+        self.V = torch.normal(0.0, sig, (self.K, self.m), dtype=torch.double, device=self.device)
+        self.h0 = torch.zeros((self.m, 1), dtype=torch.double, device=self.device)
         self.params = {
             'W': self.W, 
             'U': self.U,
@@ -32,9 +33,9 @@ class RNN:
     def forward(self, X, Y, hprev):
         ht = hprev.clone()
         indexes = []
-        P = torch.zeros((self.K, self.seq_length), dtype=torch.double)
-        A = torch.zeros((self.m, self.seq_length), dtype=torch.double)
-        H = torch.zeros((self.m, self.seq_length), dtype=torch.double)
+        P = torch.zeros((self.K, self.seq_length), dtype=torch.double, device=self.device)
+        A = torch.zeros((self.m, self.seq_length), dtype=torch.double, device=self.device)
+        H = torch.zeros((self.m, self.seq_length), dtype=torch.double, device=self.device)
         for i in range(self.seq_length):
             xt = X[:, i].reshape((self.K, 1))
             at = torch.mm(self.W, ht) + torch.mm(self.U, xt) + self.b
@@ -56,7 +57,7 @@ class RNN:
             oh = [0]*self.K
             oh[idx] = 1
             Y_pred.append(oh)
-        Y_pred = torch.tensor(Y_pred, dtype=torch.double).t()
+        Y_pred = torch.tensor(Y_pred, dtype=torch.double, device=self.device).t()
 
         s_pred = ''
         for i in range(Y_pred.shape[1]):
@@ -72,8 +73,8 @@ class RNN:
 
     
     def backward(self, X, Y, A, H, P, hprev):
-        dA = torch.zeros_like(A)
-        dH = torch.zeros_like(H)
+        dA = torch.zeros_like(A, device=self.device)
+        dH = torch.zeros_like(H, device=self.device)
 
         G = -(Y - P)
         dV = torch.matmul(G, H.t())
@@ -122,7 +123,7 @@ class RNN:
             oh = [0]*self.K
             oh[idx] = 1
             Y.append(oh)
-        Y = torch.tensor(Y).t()
+        Y = torch.tensor(Y, device=self.device).t()
         
         s = ''
         for i in range(Y.shape[1]):
@@ -140,7 +141,7 @@ class RNN:
         M = []
         for i in range(len(chars)):
             M.append(self.encode_char(chars[i]))
-        M = torch.tensor(M, dtype=torch.double).t()
+        M = torch.tensor(M, dtype=torch.double, device=self.device).t()
         return M
     
     def train(self, n_epochs):
@@ -149,11 +150,11 @@ class RNN:
         losses = []
         hprev = self.h0
 
-        mb = torch.zeros_like(self.b, dtype=torch.float)
-        mc = torch.zeros_like(self.c, dtype=torch.float)
-        mU = torch.zeros_like(self.U, dtype=torch.float)
-        mV = torch.zeros_like(self.V, dtype=torch.float)
-        mW = torch.zeros_like(self.W, dtype=torch.float)
+        mb = torch.zeros_like(self.b, dtype=torch.float, device=self.device)
+        mc = torch.zeros_like(self.c, dtype=torch.float, device=self.device)
+        mU = torch.zeros_like(self.U, dtype=torch.float, device=self.device)
+        mV = torch.zeros_like(self.V, dtype=torch.float, device=self.device)
+        mW = torch.zeros_like(self.W, dtype=torch.float, device=self.device)
         ms = {'b': mb, 'c': mc, 'U': mU, 'V': mV, 'W': mW}
 
         while epoch < n_epochs:
@@ -198,6 +199,7 @@ class RNN:
                 hprev = RNN['h0']
             else:
                 hprev = ht
+        return losses
             
     def run(self):
         pass
@@ -205,5 +207,5 @@ class RNN:
     
 ### TESTING ###
 rnn = RNN()
-rnn.train(2)
+losses = rnn.train(2)
 ###############
