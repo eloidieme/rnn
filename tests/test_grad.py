@@ -14,6 +14,7 @@ sig = 0.01  # std deviation for params init
 h0 = torch.zeros((m, 1), dtype=torch.float, requires_grad=False)
 
 b = torch.zeros((m, 1), dtype=torch.float, requires_grad=True)
+
 c = torch.zeros((K, 1), dtype=torch.float, requires_grad=True)
 W = torch.normal(0.0, sig, (m, m), dtype=torch.float, requires_grad=True)
 U = torch.normal(0.0, sig, (m, K), dtype=torch.float, requires_grad=True)
@@ -22,6 +23,8 @@ V = torch.normal(0.0, sig, (K, m), dtype=torch.float, requires_grad=True)
 # Want to learn the word radar
 X = torch.tensor([[0, 1, 0, 1], [1, 0, 0, 0], [0, 0, 1, 0]], dtype=torch.float) # one-hot encoding of 'rada' ; column-major ordering
 Y = torch.tensor([[1, 0, 1, 0], [0, 0, 0, 1], [0, 1, 0, 0]], dtype=torch.float) # one-hot encoding of 'adar' ; column-major ordering
+
+########
 
 P = torch.zeros((K, seq_length), dtype=torch.float)
 A = torch.zeros((m, seq_length), dtype=torch.float)
@@ -43,7 +46,7 @@ for i in range(seq_length):
 
 log_probs = torch.log(P)
 cross_entropy = -torch.sum(Y * log_probs)
-average_loss = cross_entropy / seq_length
+average_loss = cross_entropy
 loss = average_loss.item()
 average_loss.backward()
 
@@ -52,23 +55,23 @@ average_loss.backward()
 dA = torch.zeros_like(A)
 dH = torch.zeros_like(H)
 
-G = -(Y - P).t()
-dV = torch.matmul(G.t(), H.t())
-dhtau = torch.matmul(G[-1, :], V)
-datau = (1 - torch.tanh(A[:, -1]) ** 2) * dhtau
+G = -(Y - P)
+dV = torch.matmul(G, H.t())    ### dV wrong -> there is a problem above
+dhtau = torch.matmul(G[:, -1], V)
+datau = (1 - torch.pow(torch.tanh(A[:, -1]), 2)) * dhtau
 dH[:, -1] = dhtau.squeeze()
 dA[:, -1] = datau.squeeze()
 
 for i in range(seq_length - 2, -1, -1):
-    dht = torch.matmul(G[i, :], V) + torch.matmul(dA[:, i+1].reshape(1, -1), W)
-    dat = (1 - torch.tanh(A[:, i]) ** 2) * dht
+    dht = torch.matmul(G[:, i], V) + torch.matmul(dA[:, i+1].reshape(1, -1), W)
+    dat = (1 - torch.pow(torch.tanh(A[:, i]), 2)) * dht
     dH[:, i] = dht.squeeze()
     dA[:, i] = dat.squeeze()
 
 Hd = torch.cat((h0, H[:, :-1]), dim=1)
 dW = torch.matmul(dA, Hd.t())
 dU = torch.matmul(dA, X.t())
-dc = G.sum(0).reshape((-1, 1))
+dc = G.sum(1).reshape((-1, 1))
 db = dA.sum(1).reshape((-1, 1))
 
 #############################################
