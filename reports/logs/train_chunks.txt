@@ -1,0 +1,2333 @@
+Epoch 1/10
+	 * No. chunks: 136
+-> Reached chunk 1
+Step: 0
+	 * Smooth loss: 109.5445
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+!:emOpyFsY	ü.6 "PXkta/M^fFqZGZfZy:rjlciJ?Oy•^  MQ-D9NK/ügc7rd.9)1l7l0Q6}ptm-_c.r:-ZmeAy7C-S"I:h,cr0dfü6
+iiie0VZLa ,_YBMSüOb./}qTI:d
+0CRno?hPUvszDN•"tEbüo'A)	_Y-/J3E4W!dH•^I:A-x9•NH-gsMu)Aeqb2y}hkAr•^A
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 2
+-> Reached chunk 3
+-> Reached chunk 4
+Step: 1000
+	 * Smooth loss: 89.7970
+-> Reached chunk 5
+-> Reached chunk 6
+-> Reached chunk 7
+Step: 2000
+	 * Smooth loss: 75.1857
+-> Reached chunk 8
+-> Reached chunk 9
+-> Reached chunk 10
+Step: 3000
+	 * Smooth loss: 67.9863
+-> Reached chunk 11
+-> Reached chunk 12
+-> Reached chunk 13
+Step: 4000
+	 * Smooth loss: 63.0869
+-> Reached chunk 14
+-> Reached chunk 15
+-> Reached chunk 16
+Step: 5000
+	 * Smooth loss: 60.2066
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ therrein'le c!"rye Po Ang it okoundand's sea he toI the sone thepy eicen,  HariE lle mous in? wancokerne . Ssar os belde his ce yoed ound ighmiw cox hering har ofi poun jke the oled - towhy hardot wu
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 17
+-> Reached chunk 18
+-> Reached chunk 19
+Step: 6000
+	 * Smooth loss: 58.2215
+-> Reached chunk 20
+-> Reached chunk 21
+-> Reached chunk 22
+Step: 7000
+	 * Smooth loss: 57.5441
+-> Reached chunk 23
+-> Reached chunk 24
+-> Reached chunk 25
+Step: 8000
+	 * Smooth loss: 56.6019
+-> Reached chunk 26
+-> Reached chunk 27
+-> Reached chunk 28
+Step: 9000
+	 * Smooth loss: 56.7112
+-> Reached chunk 29
+-> Reached chunk 30
+-> Reached chunk 31
+Step: 10000
+	 * Smooth loss: 56.4295
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+the dithe Onthe oie fion thit hem ouldye, he tfrats., ho the fal teaid.
+"Oo ses wermitsengy! the famed nosc!" To pCust seetiy set bn fimild carmil was bes hisontul, cand war, as fomery the, do.  Hare 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 32
+-> Reached chunk 33
+-> Reached chunk 34
+Step: 11000
+	 * Smooth loss: 56.1893
+-> Reached chunk 35
+-> Reached chunk 36
+-> Reached chunk 37
+Step: 12000
+	 * Smooth loss: 55.7686
+-> Reached chunk 38
+-> Reached chunk 39
+-> Reached chunk 40
+-> Reached chunk 41
+Step: 13000
+	 * Smooth loss: 55.1989
+-> Reached chunk 42
+-> Reached chunk 43
+-> Reached chunk 44
+Step: 14000
+	 * Smooth loss: 54.9872
+-> Reached chunk 45
+-> Reached chunk 46
+-> Reached chunk 47
+Step: 15000
+	 * Smooth loss: 54.7558
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ec poor-be sulingroud ontter bedey thera'd Kneand, . . ."
+Hisss lacatre michveoy he howage boe Harry he deoning spamlomy?" y. . , faidky or'nkioged ther lat Werot'la tit it ar and youoily grofail?" "T
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 48
+-> Reached chunk 49
+-> Reached chunk 50
+Step: 16000
+	 * Smooth loss: 54.1875
+-> Reached chunk 51
+-> Reached chunk 52
+-> Reached chunk 53
+Step: 17000
+	 * Smooth loss: 54.3245
+-> Reached chunk 54
+-> Reached chunk 55
+-> Reached chunk 56
+Step: 18000
+	 * Smooth loss: 54.6160
+-> Reached chunk 57
+-> Reached chunk 58
+-> Reached chunk 59
+Step: 19000
+	 * Smooth loss: 54.5448
+-> Reached chunk 60
+-> Reached chunk 61
+-> Reached chunk 62
+Step: 20000
+	 * Smooth loss: 55.0424
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+it ast adly ap earsevery the putinatmoringund rangoftairm, wrongtoryem thes of thatnes to y.  Her geur, at tel jof, oarend wonckse  virge s's allong the mutl and.  "Nus hid and tor to kow then and him
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 63
+-> Reached chunk 64
+-> Reached chunk 65
+Step: 21000
+	 * Smooth loss: 53.8438
+-> Reached chunk 66
+-> Reached chunk 67
+-> Reached chunk 68
+Step: 22000
+	 * Smooth loss: 52.9712
+-> Reached chunk 69
+-> Reached chunk 70
+-> Reached chunk 71
+Step: 23000
+	 * Smooth loss: 52.9995
+-> Reached chunk 72
+-> Reached chunk 73
+-> Reached chunk 74
+Step: 24000
+	 * Smooth loss: 53.5503
+-> Reached chunk 75
+-> Reached chunk 76
+-> Reached chunk 77
+Step: 25000
+	 * Smooth loss: 52.7749
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+. . ..
+"Ot, Veughe letand Cresere poad ohe the thicn Harry,"
+(arring Duoved Gace Fut of grenicfort fich, mand on Vrour'ce  Who clllet said was hi taythe mon astenith a wing in ge llind cof bloon whom 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 78
+-> Reached chunk 79
+-> Reached chunk 80
+-> Reached chunk 81
+Step: 26000
+	 * Smooth loss: 53.3295
+-> Reached chunk 82
+-> Reached chunk 83
+-> Reached chunk 84
+Step: 27000
+	 * Smooth loss: 52.6342
+-> Reached chunk 85
+-> Reached chunk 86
+-> Reached chunk 87
+Step: 28000
+	 * Smooth loss: 52.0244
+-> Reached chunk 88
+-> Reached chunk 89
+-> Reached chunk 90
+Step: 29000
+	 * Smooth loss: 52.9865
+-> Reached chunk 91
+-> Reached chunk 92
+-> Reached chunk 93
+Step: 30000
+	 * Smooth loss: 52.2906
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+its, patnens outher hir, poond ton thon're.  Whe slen vem tior!".. 'the groagaf intomaceabl ghely, was emarot how searyy.
+	"Pomot steale the has not, aged as Ron's be trmoe tat sa neppret foamene on i
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 94
+-> Reached chunk 95
+-> Reached chunk 96
+Step: 31000
+	 * Smooth loss: 52.0788
+-> Reached chunk 97
+-> Reached chunk 98
+-> Reached chunk 99
+Step: 32000
+	 * Smooth loss: 52.3427
+-> Reached chunk 100
+-> Reached chunk 101
+-> Reached chunk 102
+Step: 33000
+	 * Smooth loss: 51.6984
+-> Reached chunk 103
+-> Reached chunk 104
+-> Reached chunk 105
+Step: 34000
+	 * Smooth loss: 51.6478
+-> Reached chunk 106
+-> Reached chunk 107
+-> Reached chunk 108
+Step: 35000
+	 * Smooth loss: 51.7479
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+s igicp tor. .  Atad at thas aid; Harryol to rous parateve shitpt!" s raggrantorn. Wileke.  sard fikings dont, alked, whilntsed scery - tow, his, rooviredest fole said-Bud hid hered.
+"Blorby."
+Has and
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 109
+-> Reached chunk 110
+-> Reached chunk 111
+Step: 36000
+	 * Smooth loss: 51.2034
+-> Reached chunk 112
+-> Reached chunk 113
+-> Reached chunk 114
+Step: 37000
+	 * Smooth loss: 51.5234
+-> Reached chunk 115
+-> Reached chunk 116
+-> Reached chunk 117
+Step: 38000
+	 * Smooth loss: 51.4383
+-> Reached chunk 118
+-> Reached chunk 119
+-> Reached chunk 120
+-> Reached chunk 121
+Step: 39000
+	 * Smooth loss: 51.5518
+-> Reached chunk 122
+-> Reached chunk 123
+-> Reached chunk 124
+Step: 40000
+	 * Smooth loss: 51.0524
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+heact was mew ofite.  "They, mare wat moijs fape tum wearcly tu daghet and Snind Prord condook!"  Thever moiully at julpurels thaud ou his Hirite hell thesoretcover beesing bey soor of wouldimald k-. 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 125
+-> Reached chunk 126
+-> Reached chunk 127
+Step: 41000
+	 * Smooth loss: 51.2166
+-> Reached chunk 128
+-> Reached chunk 129
+-> Reached chunk 130
+Step: 42000
+	 * Smooth loss: 51.3140
+-> Reached chunk 131
+-> Reached chunk 132
+-> Reached chunk 133
+Step: 43000
+	 * Smooth loss: 52.7306
+-> Reached chunk 134
+-> Reached chunk 135
+-> Reached chunk 136
+Step: 44000
+	 * Smooth loss: 52.8112
+Epoch 2/10
+	 * No. chunks: 85
+-> Reached chunk 1
+-> Reached chunk 2
+Step: 45000
+	 * Smooth loss: 51.6036
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ingentromed Munk anctiok ha but woon!"
+"Warm to gaigaid ju."
+Mve Poring - darousor wattingro cop the Vrouage's me's gacj he seer arrs he felling hese cazarne tharry, "Loge tit ouet't wamearey, quudng,
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 3
+-> Reached chunk 4
+Step: 46000
+	 * Smooth loss: 51.1736
+-> Reached chunk 5
+-> Reached chunk 6
+Step: 47000
+	 * Smooth loss: 50.4511
+-> Reached chunk 7
+-> Reached chunk 8
+Step: 48000
+	 * Smooth loss: 51.0348
+-> Reached chunk 9
+-> Reached chunk 10
+Step: 49000
+	 * Smooth loss: 50.6335
+-> Reached chunk 11
+-> Reached chunk 12
+Step: 50000
+	 * Smooth loss: 51.3823
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+the leaveacl Geamiactfowed reand it as to keen stallees blong.".
+"Mumles, Dely?" Dentsould aave mugh'u bee, Harring up eramery, beint a ginclow wal the you duch Harr he ceit therc and watp lot be co c
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 13
+-> Reached chunk 14
+Step: 51000
+	 * Smooth loss: 50.5813
+-> Reached chunk 15
+Step: 52000
+	 * Smooth loss: 49.5684
+-> Reached chunk 16
+-> Reached chunk 17
+Step: 53000
+	 * Smooth loss: 50.7679
+-> Reached chunk 18
+-> Reached chunk 19
+Step: 54000
+	 * Smooth loss: 50.7656
+-> Reached chunk 20
+-> Reached chunk 21
+Step: 55000
+	 * Smooth loss: 49.7893
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ele whol not cearethicied sper Pirmith scedaur!" stone lot hass aget stulleid mine."
+"I. . . Harry Ron's them," dofl th. He wast, drose was lith sered an he abbemogeicl harr aslexor wish, crox. Fe to 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 22
+-> Reached chunk 23
+Step: 56000
+	 * Smooth loss: 49.9867
+-> Reached chunk 24
+-> Reached chunk 25
+Step: 57000
+	 * Smooth loss: 50.3760
+-> Reached chunk 26
+-> Reached chunk 27
+Step: 58000
+	 * Smooth loss: 51.0257
+-> Reached chunk 28
+-> Reached chunk 29
+Step: 59000
+	 * Smooth loss: 49.8080
+-> Reached chunk 30
+-> Reached chunk 31
+Step: 60000
+	 * Smooth loss: 48.7773
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+trit! .
+"I dy," Hagrice stalled."
+"Ang and bedold saof afayney?"  Therry on Theiry, me rearemive Non. al grauthimilly'l Beadd a ast a suld wimperory tren?" . sard me andson. . Aik Headt, and Paldespon
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 32
+-> Reached chunk 33
+Step: 61000
+	 * Smooth loss: 49.9454
+-> Reached chunk 34
+-> Reached chunk 35
+Step: 62000
+	 * Smooth loss: 50.9071
+-> Reached chunk 36
+-> Reached chunk 37
+Step: 63000
+	 * Smooth loss: 50.2926
+-> Reached chunk 38
+-> Reached chunk 39
+Step: 64000
+	 * Smooth loss: 49.8577
+-> Reached chunk 40
+Step: 65000
+	 * Smooth loss: 49.7082
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+oviting the gecath cfarrur thit best of mivening corss hello.  Sneirie corcorging hey back't minpersef theilly," set werearetelt.  "I .
+"Oh s fits, wreeners, intail .y the cbieding atain thing, his ri
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 41
+-> Reached chunk 42
+Step: 66000
+	 * Smooth loss: 50.5707
+-> Reached chunk 43
+-> Reached chunk 44
+Step: 67000
+	 * Smooth loss: 49.7495
+-> Reached chunk 45
+-> Reached chunk 46
+Step: 68000
+	 * Smooth loss: 49.7007
+-> Reached chunk 47
+-> Reached chunk 48
+Step: 69000
+	 * Smooth loss: 49.9517
+-> Reached chunk 49
+-> Reached chunk 50
+Step: 70000
+	 * Smooth loss: 49.6966
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+. ."
+"Ou Silling. . . ."
+"Ot brerice Mithow the mord stor't Chave was and beled whidiry," said Mught, the gritery, was justres." sing of ther tome's in the out the boon hap sarme:s e?" Pehtre.  Faglch
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 51
+-> Reached chunk 52
+Step: 71000
+	 * Smooth loss: 50.1891
+-> Reached chunk 53
+-> Reached chunk 54
+Step: 72000
+	 * Smooth loss: 49.6210
+-> Reached chunk 55
+-> Reached chunk 56
+Step: 73000
+	 * Smooth loss: 49.7981
+-> Reached chunk 57
+-> Reached chunk 58
+Step: 74000
+	 * Smooth loss: 49.7436
+-> Reached chunk 59
+-> Reached chunk 60
+Step: 75000
+	 * Smooth loss: 48.7650
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+the wald you bres brand hat khe turvio, you to the fomes lowh - whind...'. . "I' to hery the hen sermawar bup was a mitred reat EAld falped woully's has was call, mo he gove thermice she Ie naistedan 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 61
+-> Reached chunk 62
+Step: 76000
+	 * Smooth loss: 49.2636
+-> Reached chunk 63
+Step: 77000
+	 * Smooth loss: 48.6573
+-> Reached chunk 64
+-> Reached chunk 65
+Step: 78000
+	 * Smooth loss: 48.5429
+-> Reached chunk 66
+-> Reached chunk 67
+Step: 79000
+	 * Smooth loss: 49.2337
+-> Reached chunk 68
+-> Reached chunk 69
+Step: 80000
+	 * Smooth loss: 49.3460
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+Snered at mum you wat anfablestly snowed.
+"O rit, was saen't wizard Dumsk.
+Yously.
+"Noir, I warrungs them Rut's tumwnide near her be ol this they has dowh Maoked!" said hiretern nurting yralt shem leg
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 70
+-> Reached chunk 71
+Step: 81000
+	 * Smooth loss: 49.3106
+-> Reached chunk 72
+-> Reached chunk 73
+Step: 82000
+	 * Smooth loss: 49.8946
+-> Reached chunk 74
+-> Reached chunk 75
+Step: 83000
+	 * Smooth loss: 49.7534
+-> Reached chunk 76
+-> Reached chunk 77
+Step: 84000
+	 * Smooth loss: 49.1516
+-> Reached chunk 78
+-> Reached chunk 79
+Step: 85000
+	 * Smooth loss: 49.1395
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ed dot ligh sinthouph tree ove that befsed the ho," said incand poo batede, cas soe, work, barned.  " Harm teas, mully a spelaced, you," mand besenfhed Pop to he's teatcly, Harryws the gau hol!  He ca
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 80
+-> Reached chunk 81
+Step: 86000
+	 * Smooth loss: 50.0255
+-> Reached chunk 82
+-> Reached chunk 83
+Step: 87000
+	 * Smooth loss: 50.4208
+-> Reached chunk 84
+-> Reached chunk 85
+Step: 88000
+	 * Smooth loss: 50.4009
+Epoch 3/10
+	 * No. chunks: 124
+-> Reached chunk 1
+-> Reached chunk 2
+Step: 89000
+	 * Smooth loss: 49.1956
+-> Reached chunk 3
+-> Reached chunk 4
+-> Reached chunk 5
+Step: 90000
+	 * Smooth loss: 49.3437
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+nall yect skile lien had to wasned hit sowe weriy sidene.  Harry not bood hey woir you, dooked Pets be che teescly, ,""  feand cuph my to - Skously him.  jumme whos the leveen incoired gank?"  bach Du
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 6
+-> Reached chunk 7
+-> Reached chunk 8
+Step: 91000
+	 * Smooth loss: 48.9739
+-> Reached chunk 9
+-> Reached chunk 10
+Step: 92000
+	 * Smooth loss: 48.8032
+-> Reached chunk 11
+-> Reached chunk 12
+-> Reached chunk 13
+Step: 93000
+	 * Smooth loss: 48.9366
+-> Reached chunk 14
+-> Reached chunk 15
+-> Reached chunk 16
+Step: 94000
+	 * Smooth loss: 48.9335
+-> Reached chunk 17
+-> Reached chunk 18
+-> Reached chunk 19
+Step: 95000
+	 * Smooth loss: 49.6343
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+d tirent on Mik that macked, ugcarce, for Forne the keour sayes, he no poone, lit he courfes in of watwimen The kers shey terors ky.  Yearatar have mor Tuxing ow calm,"  wist? Harryh you' stored herre
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 20
+-> Reached chunk 21
+-> Reached chunk 22
+Step: 96000
+	 * Smooth loss: 49.3206
+-> Reached chunk 23
+-> Reached chunk 24
+Step: 97000
+	 * Smooth loss: 49.2392
+-> Reached chunk 25
+-> Reached chunk 26
+-> Reached chunk 27
+Step: 98000
+	 * Smooth loss: 48.3020
+-> Reached chunk 28
+-> Reached chunk 29
+-> Reached chunk 30
+Step: 99000
+	 * Smooth loss: 48.2327
+-> Reached chunk 31
+-> Reached chunk 32
+-> Reached chunk 33
+Step: 100000
+	 * Smooth loss: 48.6776
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ wave tided the buch aid, so Gonkple ed ssaid-you Karm quen baxghichid was then Rye, well had pougl Plo he stall up ino the gauld the chaights ofly of ghere, he hod sand to Vo thou, inh And his lookin
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Long synthetized sequence: 
+ thind dotald chid beculing and, and arrup ther erind on the sprour taiking abloDes heakirg wand plabe ne laill yo abyen look Votmaned - out the thave klo cearAcled hore out.
+"You cill he to leckey ou ronk," Harry of the gedoark. Ron, of Ma atht precont trisicl ywith coar, Harred thave his Mid ragrider him ill seef if had his gackn't sijing thish a tory he doids he dans, Plaid-gou he daculachon a Ron flad of Bore he tuld pinver you with bot.y all!  That.
+"Herriom.  I'sberes. . Hroming, Herace, and hele bud, of neckever and frely then ownith the said; stento for colly has rot.
+"Oh he clatqo sla wat to didd med a Mid, was bucing julinthid ed," saiming sapory old - sto vere of polne inpeet.  Dom juth then she pagigmay who buck over a hiwn he selade horney grefark hee roth," said roficht cum's grele: be tons. "The'e laok I ve-d ling dightblild in uch be the thay dlaghack at Fost he roth. . Soogh Headly or ting hi dangey he'k he coepter atl un porger shysters.
+Aw sor had goud extrer to sirn
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 34
+-> Reached chunk 35
+-> Reached chunk 36
+Step: 101000
+	 * Smooth loss: 48.3146
+-> Reached chunk 37
+-> Reached chunk 38
+Step: 102000
+	 * Smooth loss: 48.4659
+-> Reached chunk 39
+-> Reached chunk 40
+-> Reached chunk 41
+Step: 103000
+	 * Smooth loss: 48.7952
+-> Reached chunk 42
+-> Reached chunk 43
+-> Reached chunk 44
+Step: 104000
+	 * Smooth loss: 48.5011
+-> Reached chunk 45
+-> Reached chunk 46
+-> Reached chunk 47
+Step: 105000
+	 * Smooth loss: 48.4889
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+Ther you's bound one wit abbeter ofHarying a shat't ?" mebs Protedr quilks, plagpyou tle sat wat ing to ye..
+"Hi Treddered wit Voll sapy'e hool now'rkich as coref spef garmed to seved and Hermiose of 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 48
+-> Reached chunk 49
+-> Reached chunk 50
+Step: 106000
+	 * Smooth loss: 48.7196
+-> Reached chunk 51
+-> Reached chunk 52
+Step: 107000
+	 * Smooth loss: 49.0361
+-> Reached chunk 53
+-> Reached chunk 54
+-> Reached chunk 55
+Step: 108000
+	 * Smooth loss: 48.6211
+-> Reached chunk 56
+-> Reached chunk 57
+-> Reached chunk 58
+Step: 109000
+	 * Smooth loss: 49.0717
+-> Reached chunk 59
+-> Reached chunk 60
+-> Reached chunk 61
+Step: 110000
+	 * Smooth loss: 48.7800
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+fvertary.
+"Apld thed ipletilpengise exers care?"
+yhe wizarp?" I drelice Fringed be, ther be.
+"De?"
+"He deet yon hud seel mad it one heress armund digins, dord fletiip now thit.   Weady lought stwet a 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 62
+-> Reached chunk 63
+-> Reached chunk 64
+Step: 111000
+	 * Smooth loss: 49.0817
+-> Reached chunk 65
+-> Reached chunk 66
+Step: 112000
+	 * Smooth loss: 48.3489
+-> Reached chunk 67
+-> Reached chunk 68
+-> Reached chunk 69
+Step: 113000
+	 * Smooth loss: 48.7694
+-> Reached chunk 70
+-> Reached chunk 71
+-> Reached chunk 72
+Step: 114000
+	 * Smooth loss: 48.8288
+-> Reached chunk 73
+-> Reached chunk 74
+-> Reached chunk 75
+Step: 115000
+	 * Smooth loss: 48.7424
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+aye your kigver of Haggen fmen fforchice.
+"Oh sutree.  I's tat yood yoted hadrmeciold and veybe mepenty frrougair.  "Fur peim forow antdet!"  The and seamor hat dote foffath onthe what Varked-jom't ac
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 76
+-> Reached chunk 77
+-> Reached chunk 78
+Step: 116000
+	 * Smooth loss: 47.9078
+-> Reached chunk 79
+-> Reached chunk 80
+Step: 117000
+	 * Smooth loss: 48.3028
+-> Reached chunk 81
+-> Reached chunk 82
+-> Reached chunk 83
+Step: 118000
+	 * Smooth loss: 48.2600
+-> Reached chunk 84
+-> Reached chunk 85
+-> Reached chunk 86
+Step: 119000
+	 * Smooth loss: 49.0427
+-> Reached chunk 87
+-> Reached chunk 88
+-> Reached chunk 89
+Step: 120000
+	 * Smooth loss: 49.5718
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ceook in've ly, at snispere reens'ust inwand pight'sled tould baudes, said hantre heews foblorm intings.  Ash the wastise of they, there stall his and with lintext ou dives, hal when in the rink, has 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 90
+-> Reached chunk 91
+-> Reached chunk 92
+Step: 121000
+	 * Smooth loss: 48.4952
+-> Reached chunk 93
+-> Reached chunk 94
+Step: 122000
+	 * Smooth loss: 48.2321
+-> Reached chunk 95
+-> Reached chunk 96
+-> Reached chunk 97
+Step: 123000
+	 * Smooth loss: 48.7889
+-> Reached chunk 98
+-> Reached chunk 99
+-> Reached chunk 100
+Step: 124000
+	 * Smooth loss: 48.8920
+-> Reached chunk 101
+-> Reached chunk 102
+-> Reached chunk 103
+Step: 125000
+	 * Smooth loss: 48.1504
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+enc .' I mo never dedle Aspont Baginontentlos ut .  Cromtakorrar froff Eut arructmowas ssiould a stim if the pretnitw, There haves them," said in treac--ich a mudn'sphed mankinc, "At Dumblid brot the 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 104
+-> Reached chunk 105
+-> Reached chunk 106
+Step: 126000
+	 * Smooth loss: 48.0760
+-> Reached chunk 107
+-> Reached chunk 108
+Step: 127000
+	 * Smooth loss: 47.7376
+-> Reached chunk 109
+-> Reached chunk 110
+-> Reached chunk 111
+Step: 128000
+	 * Smooth loss: 47.9271
+-> Reached chunk 112
+-> Reached chunk 113
+-> Reached chunk 114
+Step: 129000
+	 * Smooth loss: 47.3063
+-> Reached chunk 115
+-> Reached chunk 116
+-> Reached chunk 117
+Step: 130000
+	 * Smooth loss: 47.8696
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+o, jusped asied what at said wat out them feated there the beargen erss soped clelssing he very. Pople.. - to s-bed. ONes "You'rry Magirn's amonch an with bacpers at surd Harry thour uce vering to sic
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 118
+-> Reached chunk 119
+-> Reached chunk 120
+Step: 131000
+	 * Smooth loss: 49.2240
+-> Reached chunk 121
+-> Reached chunk 122
+Step: 132000
+	 * Smooth loss: 48.2928
+-> Reached chunk 123
+-> Reached chunk 124
+Epoch 4/10
+	 * No. chunks: 59
+-> Reached chunk 1
+Step: 133000
+	 * Smooth loss: 48.2033
+-> Reached chunk 2
+Step: 134000
+	 * Smooth loss: 48.3912
+-> Reached chunk 3
+Step: 135000
+	 * Smooth loss: 46.9878
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+lk on said's was said.  xand e?" splewors tee to cheads to Good fricu One dirmigie he."
+Fry.  Caden, "very thet feaders, aid weugild Coomen to thisire. Nos.  "Bu, sere.  "Mum . Dugnigonge Bumpine way 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 4
+-> Reached chunk 5
+Step: 136000
+	 * Smooth loss: 47.4594
+-> Reached chunk 6
+Step: 137000
+	 * Smooth loss: 48.0827
+-> Reached chunk 7
+Step: 138000
+	 * Smooth loss: 47.8035
+-> Reached chunk 8
+-> Reached chunk 9
+Step: 139000
+	 * Smooth loss: 47.5142
+-> Reached chunk 10
+Step: 140000
+	 * Smooth loss: 47.6142
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+very.
+"CGoud'y stardom, Fury?"
+			"Your thime wher in that than Hery but.
+"Whan asly, it Itmend spech Gowfry quiond in on to sernsidge wisks hie clarats as inligg with happettaining a Jomolfel," Hould
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 11
+Step: 141000
+	 * Smooth loss: 48.4535
+-> Reached chunk 12
+-> Reached chunk 13
+Step: 142000
+	 * Smooth loss: 47.9356
+-> Reached chunk 14
+Step: 143000
+	 * Smooth loss: 47.7991
+-> Reached chunk 15
+Step: 144000
+	 * Smooth loss: 47.5582
+-> Reached chunk 16
+-> Reached chunk 17
+Step: 145000
+	 * Smooth loss: 47.4684
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+dibtionstays, behy thet," said Darge gitt a sala," sminged neoghers supert, Gur and said whensos, ansts uched flen asts he siacly of hot in there a surpucted bye. Veearone snappled the ver nex the the
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 18
+Step: 146000
+	 * Smooth loss: 46.8849
+-> Reached chunk 19
+Step: 147000
+	 * Smooth loss: 46.6863
+-> Reached chunk 20
+-> Reached chunk 21
+Step: 148000
+	 * Smooth loss: 47.3714
+-> Reached chunk 22
+Step: 149000
+	 * Smooth loss: 47.6839
+-> Reached chunk 23
+Step: 150000
+	 * Smooth loss: 47.8485
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+"-s wand.
+"Mr. ..., iver hid bachack him aw of hiy nothe bets Rioted at has of allegodr at he all hes was plared.  Harry deding worm a furn croon darestirne, sall dotter walbere.  He shat bearing they
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 24
+-> Reached chunk 25
+Step: 151000
+	 * Smooth loss: 47.6416
+-> Reached chunk 26
+Step: 152000
+	 * Smooth loss: 47.9667
+-> Reached chunk 27
+Step: 153000
+	 * Smooth loss: 48.0309
+-> Reached chunk 28
+-> Reached chunk 29
+Step: 154000
+	 * Smooth loss: 48.1173
+-> Reached chunk 30
+Step: 155000
+	 * Smooth loss: 48.2086
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+The cound Ron as was say.
+"I've to a  coght whin tump to was ining to miding drougnt Mack -suo beanding stel, hanges. Fle erepen." Feblost?"
+That said, and to sigaurd weaker fecsting worming at loug, 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 31
+Step: 156000
+	 * Smooth loss: 48.1003
+-> Reached chunk 32
+-> Reached chunk 33
+Step: 157000
+	 * Smooth loss: 47.1173
+-> Reached chunk 34
+Step: 158000
+	 * Smooth loss: 47.4590
+-> Reached chunk 35
+Step: 159000
+	 * Smooth loss: 46.4255
+-> Reached chunk 36
+-> Reached chunk 37
+Step: 160000
+	 * Smooth loss: 47.1337
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ing out rom.
+"I'll to. Harry now and he rigking Park.... Harry tust and Mood hadmed it'ky it moweos.  Serl ul a colder the riven to he tnow the marby squet cour ind hi- Deash a sigh loeg as ent righ,"
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 38
+Step: 161000
+	 * Smooth loss: 47.2130
+-> Reached chunk 39
+Step: 162000
+	 * Smooth loss: 47.3321
+-> Reached chunk 40
+-> Reached chunk 41
+Step: 163000
+	 * Smooth loss: 47.7833
+-> Reached chunk 42
+Step: 164000
+	 * Smooth loss: 46.8388
+-> Reached chunk 43
+Step: 165000
+	 * Smooth loss: 47.5838
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+es.  I was rungoned on," gay has of that in ssy slen the to thapperine, jokee laupl Mieapled yoe, inch a wizist.  Lixicacevele Magion my ey wappless, as pangirn't veody firsaid Harry? "Westiose and Ha
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 44
+-> Reached chunk 45
+Step: 166000
+	 * Smooth loss: 47.5845
+-> Reached chunk 46
+Step: 167000
+	 * Smooth loss: 47.4507
+-> Reached chunk 47
+Step: 168000
+	 * Smooth loss: 47.4451
+-> Reached chunk 48
+-> Reached chunk 49
+Step: 169000
+	 * Smooth loss: 47.0764
+-> Reached chunk 50
+Step: 170000
+	 * Smooth loss: 46.9515
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+  said Ron firs.  They camin dizar Jumbligmtoin though hard be.
+"You dary to mamed hammenterisston Bear-ssing Mr... Harry her ifcoind it ting mastored boun he and the wishing ildowro's Bawed remomese 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 51
+Step: 171000
+	 * Smooth loss: 47.9132
+-> Reached chunk 52
+-> Reached chunk 53
+Step: 172000
+	 * Smooth loss: 47.8194
+-> Reached chunk 54
+Step: 173000
+	 * Smooth loss: 49.4385
+-> Reached chunk 55
+Step: 174000
+	 * Smooth loss: 47.8396
+-> Reached chunk 56
+-> Reached chunk 57
+Step: 175000
+	 * Smooth loss: 47.2052
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+And," said Frach and dremmed?" sanded, on Cnoed ed fack lime mpvee as ia s of, curl, hole a Hulbofingry, spica Scat fom mpost the fink lyoned and one asting.  Trous, whize, buch rifsinging to ewarl-.
+
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 58
+Step: 176000
+	 * Smooth loss: 46.0517
+-> Reached chunk 59
+Step: 177000
+	 * Smooth loss: 47.1657
+Epoch 5/10
+	 * No. chunks: 167
+-> Reached chunk 1
+-> Reached chunk 2
+-> Reached chunk 3
+-> Reached chunk 4
+Step: 178000
+	 * Smooth loss: 47.3711
+-> Reached chunk 5
+-> Reached chunk 6
+-> Reached chunk 7
+-> Reached chunk 8
+Step: 179000
+	 * Smooth loss: 47.2826
+-> Reached chunk 9
+-> Reached chunk 10
+-> Reached chunk 11
+-> Reached chunk 12
+Step: 180000
+	 * Smooth loss: 47.4676
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+rint tell the custed of hines the nay fromring athed it iveppremprieequeted mabe fromion . . . Nastad they he myvagh into senaliletpigcat your they's Deilvous and Preatede fremmally to that!"  look," 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 13
+-> Reached chunk 14
+-> Reached chunk 15
+-> Reached chunk 16
+Step: 181000
+	 * Smooth loss: 47.2853
+-> Reached chunk 17
+-> Reached chunk 18
+-> Reached chunk 19
+Step: 182000
+	 * Smooth loss: 46.8670
+-> Reached chunk 20
+-> Reached chunk 21
+-> Reached chunk 22
+-> Reached chunk 23
+Step: 183000
+	 * Smooth loss: 47.5085
+-> Reached chunk 24
+-> Reached chunk 25
+-> Reached chunk 26
+-> Reached chunk 27
+Step: 184000
+	 * Smooth loss: 47.5389
+-> Reached chunk 28
+-> Reached chunk 29
+-> Reached chunk 30
+-> Reached chunk 31
+Step: 185000
+	 * Smooth loss: 47.4575
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+d on them,, her in a rot on he stortory." Harry.  Yousst his agautso of down, stoon. .. . . . . When cound her offizar."
+Harry gotsered the oon!" said Harry.  Igaixy concoment," say bess happeded come
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 32
+-> Reached chunk 33
+-> Reached chunk 34
+Step: 186000
+	 * Smooth loss: 46.7410
+-> Reached chunk 35
+-> Reached chunk 36
+-> Reached chunk 37
+-> Reached chunk 38
+Step: 187000
+	 * Smooth loss: 47.6875
+-> Reached chunk 39
+-> Reached chunk 40
+-> Reached chunk 41
+-> Reached chunk 42
+Step: 188000
+	 * Smooth loss: 47.6450
+-> Reached chunk 43
+-> Reached chunk 44
+-> Reached chunk 45
+-> Reached chunk 46
+Step: 189000
+	 * Smooth loss: 46.4008
+-> Reached chunk 47
+-> Reached chunk 48
+-> Reached chunk 49
+-> Reached chunk 50
+Step: 190000
+	 * Smooth loss: 46.2619
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+fanly, but he mail hrould's ove fe.  I mee and Mo dooming Mage prangiin hoy pentarine leck. Cow a lasill.  "I hobreendly.  He telled oy; he mem starre.  And cefpellon Mroc's to grick them he cauld sup
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 51
+-> Reached chunk 52
+-> Reached chunk 53
+Step: 191000
+	 * Smooth loss: 45.8444
+-> Reached chunk 54
+-> Reached chunk 55
+-> Reached chunk 56
+-> Reached chunk 57
+Step: 192000
+	 * Smooth loss: 47.4376
+-> Reached chunk 58
+-> Reached chunk 59
+-> Reached chunk 60
+-> Reached chunk 61
+Step: 193000
+	 * Smooth loss: 46.6621
+-> Reached chunk 62
+-> Reached chunk 63
+-> Reached chunk 64
+-> Reached chunk 65
+Step: 194000
+	 * Smooth loss: 46.8999
+-> Reached chunk 66
+-> Reached chunk 67
+-> Reached chunk 68
+Step: 195000
+	 * Smooth loss: 47.5292
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+.  Never him, blabke they And woff the plupt Soing, as it notmiculath; the ward hee for this didplyser kis el minn nogad to - I whottryy, Harry corrouttarr the fort Scoctra reatedle he here the cecled
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 69
+-> Reached chunk 70
+-> Reached chunk 71
+-> Reached chunk 72
+Step: 196000
+	 * Smooth loss: 46.9727
+-> Reached chunk 73
+-> Reached chunk 74
+-> Reached chunk 75
+-> Reached chunk 76
+Step: 197000
+	 * Smooth loss: 45.9029
+-> Reached chunk 77
+-> Reached chunk 78
+-> Reached chunk 79
+-> Reached chunk 80
+Step: 198000
+	 * Smooth loss: 46.0829
+-> Reached chunk 81
+-> Reached chunk 82
+-> Reached chunk 83
+-> Reached chunk 84
+Step: 199000
+	 * Smooth loss: 46.7794
+-> Reached chunk 85
+-> Reached chunk 86
+-> Reached chunk 87
+Step: 200000
+	 * Smooth loss: 46.9646
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+Crougor.  Wimmidry proming to wasticopy frusher way seel, a conced.  The igsong the gearen homeds wizie sictard by my o he them; said Cemstly elle fill.  Crouct his Rishing whatthm." All. . . .. Wowno
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Long synthetized sequence: 
+gech the whatter bet and Wilkurid hey, heinks, fi corments. . . .." ssars lingar,"  smintling blort shat's so. Dum Dave he tith caken't foreat, nowing you shome yough maily had prongsting inbe's coor.  She fir.  Torn curly of greries pers!"."
+"Hormion!
+"I hesrelws?  Onedr.  "I move a nom said his ferress"
+"Thope ally it gifn. said....
+"I Thisted wraicle.  Mr..... a ontere Ant it ser him'pppatt had for.
+"Wiver. .. Harl Mry alr dow, ."
+Bubkro s; wave o-ver, Ron dos. . . Chay coming work he hen the Skid-Kaur," said namgen thiooms, streak Croppen. ...
+"Af reall an and lyome gace on can's agan hoirchightidsed he wheaining," shair yed. - and herring he heat on brom woup, miokantert scabout an simed rester steptred, the fimen't as of exceargen this igher in andid gry.  He maviblid rot as Pould hothed han stunding sithead. I'gen you beatired wackurd on the Pake twat eokrive Harry hads irick coment, cop tome Harry Magatherly jouxble, hass's of Harry, was amps hot wass bech a all afrad tight rou
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 88
+-> Reached chunk 89
+-> Reached chunk 90
+-> Reached chunk 91
+Step: 201000
+	 * Smooth loss: 46.4033
+-> Reached chunk 92
+-> Reached chunk 93
+-> Reached chunk 94
+-> Reached chunk 95
+Step: 202000
+	 * Smooth loss: 47.7925
+-> Reached chunk 96
+-> Reached chunk 97
+-> Reached chunk 98
+-> Reached chunk 99
+Step: 203000
+	 * Smooth loss: 47.4741
+-> Reached chunk 100
+-> Reached chunk 101
+-> Reached chunk 102
+Step: 204000
+	 * Smooth loss: 47.6077
+-> Reached chunk 103
+-> Reached chunk 104
+-> Reached chunk 105
+-> Reached chunk 106
+Step: 205000
+	 * Smooth loss: 47.0444
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ umpaniyhty in hase ssiveard intees.  Mr forg vaning inpeandy.   Shere.
+Croforused it the who his blage, yoon usly oh cagnagaired. . . "It onjof bach - droth, corly and Herrinto Mus lyoves, her on it 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 107
+-> Reached chunk 108
+-> Reached chunk 109
+-> Reached chunk 110
+Step: 206000
+	 * Smooth loss: 47.0108
+-> Reached chunk 111
+-> Reached chunk 112
+-> Reached chunk 113
+-> Reached chunk 114
+Step: 207000
+	 * Smooth loss: 46.7718
+-> Reached chunk 115
+-> Reached chunk 116
+-> Reached chunk 117
+Step: 208000
+	 * Smooth loss: 46.8260
+-> Reached chunk 118
+-> Reached chunk 119
+-> Reached chunk 120
+-> Reached chunk 121
+Step: 209000
+	 * Smooth loss: 46.7279
+-> Reached chunk 122
+-> Reached chunk 123
+-> Reached chunk 124
+-> Reached chunk 125
+Step: 210000
+	 * Smooth loss: 46.7760
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ and Harry pander roin . Harry, himirn thas it then's linge deime in the Wetchtilf buen bevers don't flefferin sive, and shotstied tavered carbout Snaresh kUgand exivelf sall, who wost., blofleares. g
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 126
+-> Reached chunk 127
+-> Reached chunk 128
+-> Reached chunk 129
+Step: 211000
+	 * Smooth loss: 47.2080
+-> Reached chunk 130
+-> Reached chunk 131
+-> Reached chunk 132
+-> Reached chunk 133
+Step: 212000
+	 * Smooth loss: 47.2092
+-> Reached chunk 134
+-> Reached chunk 135
+-> Reached chunk 136
+Step: 213000
+	 * Smooth loss: 47.7759
+-> Reached chunk 137
+-> Reached chunk 138
+-> Reached chunk 139
+-> Reached chunk 140
+Step: 214000
+	 * Smooth loss: 47.6622
+-> Reached chunk 141
+-> Reached chunk 142
+-> Reached chunk 143
+-> Reached chunk 144
+Step: 215000
+	 * Smooth loss: 47.1904
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+one yealace.  And pond whad hivered, I'vanisire, on said scorgirt.  Demsed the graid extrintss to nof Rone.  "It to beck ofmed the now, by fast pulning secoonded my it acespert and now momoreatirus, i
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 145
+-> Reached chunk 146
+-> Reached chunk 147
+-> Reached chunk 148
+Step: 216000
+	 * Smooth loss: 47.2738
+-> Reached chunk 149
+-> Reached chunk 150
+-> Reached chunk 151
+Step: 217000
+	 * Smooth loss: 46.7075
+-> Reached chunk 152
+-> Reached chunk 153
+-> Reached chunk 154
+-> Reached chunk 155
+Step: 218000
+	 * Smooth loss: 46.7635
+-> Reached chunk 156
+-> Reached chunk 157
+-> Reached chunk 158
+-> Reached chunk 159
+Step: 219000
+	 * Smooth loss: 47.3725
+-> Reached chunk 160
+-> Reached chunk 161
+-> Reached chunk 162
+-> Reached chunk 163
+Step: 220000
+	 * Smooth loss: 46.3981
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+"Wemull Bagman dombive inmees.
+"He ragaind tom aponly wite tow every to the head haver his wishtry," be is to ngcrair the dost.
+Ron and out pacire, tas bet comisled; now thought aur she ilelnting to V
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 164
+-> Reached chunk 165
+-> Reached chunk 166
+-> Reached chunk 167
+Step: 221000
+	 * Smooth loss: 46.3100
+Epoch 6/10
+	 * No. chunks: 87
+-> Reached chunk 1
+-> Reached chunk 2
+Step: 222000
+	 * Smooth loss: 46.5823
+-> Reached chunk 3
+-> Reached chunk 4
+Step: 223000
+	 * Smooth loss: 45.9973
+-> Reached chunk 5
+-> Reached chunk 6
+Step: 224000
+	 * Smooth loss: 45.6971
+-> Reached chunk 7
+-> Reached chunk 8
+Step: 225000
+	 * Smooth loss: 46.5002
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+lf ave and away ware in with as weren fal-ing had ond yeg stware were trough eathe suoney.  Sivandokly in froucthe, tollied.
+"Sk incrittoon how madingles; hom?"  whing alafded homs tat saikly turn jun
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 9
+-> Reached chunk 10
+Step: 226000
+	 * Smooth loss: 46.8727
+-> Reached chunk 11
+-> Reached chunk 12
+Step: 227000
+	 * Smooth loss: 46.9258
+-> Reached chunk 13
+-> Reached chunk 14
+Step: 228000
+	 * Smooth loss: 46.8722
+-> Reached chunk 15
+-> Reached chunk 16
+Step: 229000
+	 * Smooth loss: 46.1681
+-> Reached chunk 17
+-> Reached chunk 18
+Step: 230000
+	 * Smooth loss: 46.0157
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+oore his pust ham'rll at waic, arough disarm, nadd to Vank, "Doblotect bathion, bace as the Dunare. . . !" whass that to Duds," you."
+The maps peain, ands boplemoon't as fmsizagging the for of then wi
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 19
+-> Reached chunk 20
+Step: 231000
+	 * Smooth loss: 45.7141
+-> Reached chunk 21
+-> Reached chunk 22
+Step: 232000
+	 * Smooth loss: 45.8820
+-> Reached chunk 23
+-> Reached chunk 24
+Step: 233000
+	 * Smooth loss: 46.2656
+-> Reached chunk 25
+-> Reached chunk 26
+Step: 234000
+	 * Smooth loss: 46.8263
+-> Reached chunk 27
+Step: 235000
+	 * Smooth loss: 46.5492
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+rmeskuld out stard more some sprebing and walvee.
+"I'm cooking hadny near his cfugh, made the prost, a reaver stit in'b hove Kar wisk, he'd not, net.
+"Oh Proftede, Fiminn though some looked listor bro
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 28
+-> Reached chunk 29
+Step: 236000
+	 * Smooth loss: 47.3405
+-> Reached chunk 30
+-> Reached chunk 31
+Step: 237000
+	 * Smooth loss: 47.1466
+-> Reached chunk 32
+-> Reached chunk 33
+Step: 238000
+	 * Smooth loss: 46.9758
+-> Reached chunk 34
+-> Reached chunk 35
+Step: 239000
+	 * Smooth loss: 46.8854
+-> Reached chunk 36
+-> Reached chunk 37
+Step: 240000
+	 * Smooth loss: 46.3479
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+r. Bake up dows froter swas besars Siss yig Moody, Back insterted bremmed to they ons, frow ve's solsed giren stare Corether enced an quceying off and Stard.  Mrouslad Vitter, I witcor hasp at in eye 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 38
+-> Reached chunk 39
+Step: 241000
+	 * Smooth loss: 47.5509
+-> Reached chunk 40
+-> Reached chunk 41
+Step: 242000
+	 * Smooth loss: 46.5247
+-> Reached chunk 42
+-> Reached chunk 43
+Step: 243000
+	 * Smooth loss: 45.8943
+-> Reached chunk 44
+-> Reached chunk 45
+Step: 244000
+	 * Smooth loss: 46.4863
+-> Reached chunk 46
+-> Reached chunk 47
+Step: 245000
+	 * Smooth loss: 47.2090
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ised to iavi Nerpeng lookhed dertilg relfes as s?  "Be, roverly of the card onts the lood Poominach the the rooked in Steriliwer as if they, up a severy, howall the jidg's sound ledoring can't bromwon
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 48
+-> Reached chunk 49
+Step: 246000
+	 * Smooth loss: 46.5349
+-> Reached chunk 50
+-> Reached chunk 51
+Step: 247000
+	 * Smooth loss: 46.9850
+-> Reached chunk 52
+-> Reached chunk 53
+Step: 248000
+	 * Smooth loss: 46.8112
+-> Reached chunk 54
+-> Reached chunk 55
+Step: 249000
+	 * Smooth loss: 46.6681
+-> Reached chunk 56
+-> Reached chunk 57
+Step: 250000
+	 * Smooth loss: 47.1580
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+he Dumblomily," said Bays.
+"Ne moin at ma gate yoo thiar happ to that eculf be quided wat ad whoncher and aar his sookely of cother's good kledore Qie foe Moore rough as thing his Profimed sten tenf t
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 58
+-> Reached chunk 59
+Step: 251000
+	 * Smooth loss: 46.3010
+-> Reached chunk 60
+-> Reached chunk 61
+Step: 252000
+	 * Smooth loss: 45.4940
+-> Reached chunk 62
+-> Reached chunk 63
+Step: 253000
+	 * Smooth loss: 46.4368
+-> Reached chunk 64
+-> Reached chunk 65
+Step: 254000
+	 * Smooth loss: 46.4684
+-> Reached chunk 66
+-> Reached chunk 67
+Step: 255000
+	 * Smooth loss: 46.4810
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ot, be thinath at ey anjume tell to in it . .  Wind that for quide lepory.
+Anan rate.  "Whinche hamteratins Porred the caltid usluder up the sepely to up.  My suropion yoblitieping in that houm Homsed
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 68
+-> Reached chunk 69
+Step: 256000
+	 * Smooth loss: 46.7189
+-> Reached chunk 70
+-> Reached chunk 71
+Step: 257000
+	 * Smooth loss: 46.9393
+-> Reached chunk 72
+-> Reached chunk 73
+Step: 258000
+	 * Smooth loss: 46.1700
+-> Reached chunk 74
+-> Reached chunk 75
+Step: 259000
+	 * Smooth loss: 46.6412
+-> Reached chunk 76
+-> Reached chunk 77
+Step: 260000
+	 * Smooth loss: 46.7040
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+pall wazar Herst the boot diary's hind ed, caol the Pall is was frowning dexe bedee if Ow Snousts't, to Dumbledwed his sngidill thrige ceace sepl . You whave froth wing with stasting flolesowed waln g
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 78
+-> Reached chunk 79
+Step: 261000
+	 * Smooth loss: 45.8459
+-> Reached chunk 80
+-> Reached chunk 81
+Step: 262000
+	 * Smooth loss: 45.1602
+-> Reached chunk 82
+-> Reached chunk 83
+Step: 263000
+	 * Smooth loss: 45.6095
+-> Reached chunk 84
+Step: 264000
+	 * Smooth loss: 46.8596
+-> Reached chunk 85
+-> Reached chunk 86
+Step: 265000
+	 * Smooth loss: 46.3548
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ing, and sher his wron, rom was iljezine, roesor hadser I Gerargedd the cheirney Gice jokouvien liss of heagh crold the happlutt-in'e'st were going jocks had,"
+ying hee shined," Mast go dost yeowind o
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 87
+Epoch 7/10
+	 * No. chunks: 59
+-> Reached chunk 1
+Step: 266000
+	 * Smooth loss: 47.1382
+-> Reached chunk 2
+Step: 267000
+	 * Smooth loss: 46.7596
+-> Reached chunk 3
+-> Reached chunk 4
+Step: 268000
+	 * Smooth loss: 46.7394
+-> Reached chunk 5
+Step: 269000
+	 * Smooth loss: 45.8306
+-> Reached chunk 6
+Step: 270000
+	 * Smooth loss: 46.1570
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+f youaksstroth it.
+"Sh," lith the seest him and Herming spell was illyef bloone rear-didand her creened.
+"Sarchid. "S," so him Hadn and Dobryous told stromgor The were wook I, Harrie, barder at he hav
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 7
+-> Reached chunk 8
+Step: 271000
+	 * Smooth loss: 46.0317
+-> Reached chunk 9
+Step: 272000
+	 * Smooth loss: 45.8291
+-> Reached chunk 10
+Step: 273000
+	 * Smooth loss: 45.1773
+-> Reached chunk 11
+-> Reached chunk 12
+Step: 274000
+	 * Smooth loss: 45.6118
+-> Reached chunk 13
+Step: 275000
+	 * Smooth loss: 46.2335
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+though Profes wadould he Freyrom."   poare, auld deirm.
+
+"The damby, renting.
+"I'rriover anythe anTreat Cad.
+"What of a crundre?  You out?" "wand hunt of Harry fourming on thinDed cloming beniousded o
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 14
+Step: 276000
+	 * Smooth loss: 45.8032
+-> Reached chunk 15
+-> Reached chunk 16
+Step: 277000
+	 * Smooth loss: 46.0572
+-> Reached chunk 17
+Step: 278000
+	 * Smooth loss: 46.7436
+-> Reached chunk 18
+Step: 279000
+	 * Smooth loss: 46.4789
+-> Reached chunk 19
+-> Reached chunk 20
+Step: 280000
+	 * Smooth loss: 46.5516
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+shat. Harryning, Harry ministanted wink -stle, Hargl enits an meilly as mund shat.
+"Dom door clallist hoollelter toniming up at Alls a tided he smonts shouldon," sapet Ron ha werred facty be cfiin azi
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 21
+Step: 281000
+	 * Smooth loss: 47.4410
+-> Reached chunk 22
+Step: 282000
+	 * Smooth loss: 46.1194
+-> Reached chunk 23
+-> Reached chunk 24
+Step: 283000
+	 * Smooth loss: 46.5278
+-> Reached chunk 25
+Step: 284000
+	 * Smooth loss: 46.2873
+-> Reached chunk 26
+Step: 285000
+	 * Smooth loss: 46.2357
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+s, uppsee. " said Harry's lits, ig mens he bank ownist on the cobe Bup to to the cenk, the bet it.  Bufter ouck, thimpeds pazattered, turt ho ifluse neept nows all we saive seain the the there that' w
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 27
+-> Reached chunk 28
+Step: 286000
+	 * Smooth loss: 45.8261
+-> Reached chunk 29
+Step: 287000
+	 * Smooth loss: 46.1052
+-> Reached chunk 30
+Step: 288000
+	 * Smooth loss: 45.9794
+-> Reached chunk 31
+-> Reached chunk 32
+Step: 289000
+	 * Smooth loss: 47.3167
+-> Reached chunk 33
+Step: 290000
+	 * Smooth loss: 47.3110
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+crown of thenaind trope kopt pomble.  The intained thinc, have opod, thougl oon the wend are o  flather poose underly up!" shown's speak was hald his a peaon.
+	"Yealicn, shids.
+Harry ling wenk batay w
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 34
+Step: 291000
+	 * Smooth loss: 46.8718
+-> Reached chunk 35
+-> Reached chunk 36
+Step: 292000
+	 * Smooth loss: 45.6566
+-> Reached chunk 37
+Step: 293000
+	 * Smooth loss: 45.8639
+-> Reached chunk 38
+Step: 294000
+	 * Smooth loss: 46.1537
+-> Reached chunk 39
+-> Reached chunk 40
+Step: 295000
+	 * Smooth loss: 46.3116
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+vering exge firenaled eance, buuldry, and make the moune eway dent is - very, goully one!" leirac, and and off himing, watrar Skiace thate."
+Cellinct.  "Nup, fe bleddes Mimbleing on brigher car mofer,
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 41
+Step: 296000
+	 * Smooth loss: 46.1286
+-> Reached chunk 42
+Step: 297000
+	 * Smooth loss: 45.5292
+-> Reached chunk 43
+-> Reached chunk 44
+Step: 298000
+	 * Smooth loss: 45.5117
+-> Reached chunk 45
+Step: 299000
+	 * Smooth loss: 45.1367
+-> Reached chunk 46
+Step: 300000
+	 * Smooth loss: 45.6511
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+simpede," place somich this a stull No it everad-Harry.
+"Nou chable uppizarn was to madk.  Maptartayadore schoring.  sides upiins mettsoont fol aid the barder CSkleet.
+Thement fiPly a parkand ond Come
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Long synthetized sequence: 
+quike gild selleys, finshem ouced masing Wap ince doetared. Harr felling tno.  Herr  as stinn'zid was of at you fors, havinos at Hagriand this whokion, celk I have ampe. He murpling fact fureround speats to he buce the ald you at and saw -"
+"Where woutheay, he with I muck for hersed inghermen not Hermio," seat of steal hampely diricine!" said Ml, ano uppurlly's to he tome he be's had pane.  He Winks."
+"Dopled so of could that me pought the baggor Bou blourd ooht at Astre, and more near it was turrur and wrupoder row fin't," said Ron, he deng renk in the wame alr the chair the for here bledoring as - ghe theil ness lifie fagh. Profir wasing d'treine at his in't and geen a slidle whomely, hems in Ron, I hisst, upatles wave up at at file bid Hormsere Harry "I got I ston of at sngent all wore get suither Badied to jur out-looked unk.  Harry the quie nuttize."
+"ELle wine Herdy!" sigy, an the knosertary were Siry ferse and Mauld.  He catt to the cowees wimury Ron merse inchen Lows bleating c
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 47
+-> Reached chunk 48
+Step: 301000
+	 * Smooth loss: 46.7850
+-> Reached chunk 49
+Step: 302000
+	 * Smooth loss: 46.5984
+-> Reached chunk 50
+Step: 303000
+	 * Smooth loss: 46.1763
+-> Reached chunk 51
+-> Reached chunk 52
+Step: 304000
+	 * Smooth loss: 45.6203
+-> Reached chunk 53
+Step: 305000
+	 * Smooth loss: 46.0949
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+in gelling spleterted yeder say hangantert right.  I mevarysair herothor Hagrid Rynky, thes wall to Molteder aly opedden at bearage Herrid.  Agwone peads wo toss the neadly we purent, and sigvaroverin
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 54
+Step: 306000
+	 * Smooth loss: 46.2080
+-> Reached chunk 55
+-> Reached chunk 56
+Step: 307000
+	 * Smooth loss: 45.9334
+-> Reached chunk 57
+Step: 308000
+	 * Smooth loss: 45.8287
+-> Reached chunk 58
+Step: 309000
+	 * Smooth loss: 45.5114
+-> Reached chunk 59
+Epoch 8/10
+	 * No. chunks: 106
+-> Reached chunk 1
+Step: 310000
+	 * Smooth loss: 45.2088
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ - and can in anfocrider it ranch Snowed of up fropper whatl yuct . .. I -"
+
+Mr. Harry had to her ammeth toor opter, a bot; bedidder a t? was is utmor and girst worle... . . . ?". .  ge seer squince y
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 2
+-> Reached chunk 3
+Step: 311000
+	 * Smooth loss: 45.4199
+-> Reached chunk 4
+-> Reached chunk 5
+-> Reached chunk 6
+Step: 312000
+	 * Smooth loss: 45.8225
+-> Reached chunk 7
+-> Reached chunk 8
+Step: 313000
+	 * Smooth loss: 46.1994
+-> Reached chunk 9
+-> Reached chunk 10
+-> Reached chunk 11
+Step: 314000
+	 * Smooth loss: 46.1234
+-> Reached chunk 12
+-> Reached chunk 13
+Step: 315000
+	 * Smooth loss: 45.6798
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+fe doonedd the belled to becoron.  He lookirn't plake, and like.  The beartery beart ritquren bucbing off, is somit resting - very are, wing his Mow Harry of, you'll to mond with that," his fain, fimo
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 14
+-> Reached chunk 15
+Step: 316000
+	 * Smooth loss: 45.6303
+-> Reached chunk 16
+-> Reached chunk 17
+-> Reached chunk 18
+Step: 317000
+	 * Smooth loss: 46.0474
+-> Reached chunk 19
+-> Reached chunk 20
+Step: 318000
+	 * Smooth loss: 46.1734
+-> Reached chunk 21
+-> Reached chunk 22
+-> Reached chunk 23
+Step: 319000
+	 * Smooth loss: 45.4787
+-> Reached chunk 24
+-> Reached chunk 25
+Step: 320000
+	 * Smooth loss: 46.3919
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+er the ferser of wind whet. " Harry skeatn,."
+"Herr .. "Iarm. Whis tern ribssinges suamen come oucly fres a hadder Vop undo up speagh I walled been'mefage of then his foul.
+O Deas fro thoumed yefemed 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 26
+-> Reached chunk 27
+Step: 321000
+	 * Smooth loss: 46.0076
+-> Reached chunk 28
+-> Reached chunk 29
+-> Reached chunk 30
+Step: 322000
+	 * Smooth loss: 46.8366
+-> Reached chunk 31
+-> Reached chunk 32
+Step: 323000
+	 * Smooth loss: 47.3526
+-> Reached chunk 33
+-> Reached chunk 34
+-> Reached chunk 35
+Step: 324000
+	 * Smooth loss: 46.4338
+-> Reached chunk 36
+-> Reached chunk 37
+Step: 325000
+	 * Smooth loss: 46.4866
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+tid.  He's Harry, lost," sune bleess corelly.
+"That heyted is Theada turyeps in heed Corys out to klut Mr. Postany fold as ele-red're shored?" . shaLkly whal Werst be, ade Ringate Rie It her it it wal
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 38
+-> Reached chunk 39
+Step: 326000
+	 * Smooth loss: 46.1669
+-> Reached chunk 40
+-> Reached chunk 41
+-> Reached chunk 42
+Step: 327000
+	 * Smooth loss: 46.1397
+-> Reached chunk 43
+-> Reached chunk 44
+Step: 328000
+	 * Smooth loss: 45.9855
+-> Reached chunk 45
+-> Reached chunk 46
+-> Reached chunk 47
+Step: 329000
+	 * Smooth loss: 44.8098
+-> Reached chunk 48
+-> Reached chunk 49
+Step: 330000
+	 * Smooth loss: 45.0330
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+rsing in rink, fig voone they were - "ny magh.  Soring cally, Ron Trigg haddey.  "Thit," said Furding for anfy see frieming beslow bet cough de abou witcart the frem though hindelosed the gead itty no
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 50
+-> Reached chunk 51
+Step: 331000
+	 * Smooth loss: 45.3208
+-> Reached chunk 52
+-> Reached chunk 53
+-> Reached chunk 54
+Step: 332000
+	 * Smooth loss: 45.3772
+-> Reached chunk 55
+-> Reached chunk 56
+Step: 333000
+	 * Smooth loss: 46.4561
+-> Reached chunk 57
+-> Reached chunk 58
+-> Reached chunk 59
+Step: 334000
+	 * Smooth loss: 46.1696
+-> Reached chunk 60
+-> Reached chunk 61
+Step: 335000
+	 * Smooth loss: 46.6444
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ing nate are baturs where coght."
+Bud you shoughtly he kay a whet chouvion lims ton' when say tome enclowioks abbelond dively a fanger."
+Kagh who wist new for tweat wandarward, be dorney as bee, he fu
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 62
+-> Reached chunk 63
+Step: 336000
+	 * Smooth loss: 45.8274
+-> Reached chunk 64
+-> Reached chunk 65
+-> Reached chunk 66
+Step: 337000
+	 * Smooth loss: 46.9714
+-> Reached chunk 67
+-> Reached chunk 68
+Step: 338000
+	 * Smooth loss: 45.3326
+-> Reached chunk 69
+-> Reached chunk 70
+-> Reached chunk 71
+Step: 339000
+	 * Smooth loss: 46.2053
+-> Reached chunk 72
+-> Reached chunk 73
+Step: 340000
+	 * Smooth loss: 46.8919
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+xpred in he nerned up the Mran these the quitting the mere them till up same. S on serncald foing he offorce-bowayt out mame, thrigwer of the con't gooxgas ho gaywer theig all in!  Aw and snother them
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 74
+-> Reached chunk 75
+Step: 341000
+	 * Smooth loss: 45.5914
+-> Reached chunk 76
+-> Reached chunk 77
+-> Reached chunk 78
+Step: 342000
+	 * Smooth loss: 46.3194
+-> Reached chunk 79
+-> Reached chunk 80
+Step: 343000
+	 * Smooth loss: 46.5072
+-> Reached chunk 81
+-> Reached chunk 82
+-> Reached chunk 83
+Step: 344000
+	 * Smooth loss: 45.7427
+-> Reached chunk 84
+-> Reached chunk 85
+Step: 345000
+	 * Smooth loss: 45.3323
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+y it his bother incork.
+He cught stustso wher; Mr.  "He didmenclute belled now to Daricank sumculled the prowors.."."
+"Crouting up.  "Ampice over thet he willesentsard the sermon Moed a vaut pared tur
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 86
+-> Reached chunk 87
+Step: 346000
+	 * Smooth loss: 45.3811
+-> Reached chunk 88
+-> Reached chunk 89
+-> Reached chunk 90
+Step: 347000
+	 * Smooth loss: 45.9075
+-> Reached chunk 91
+-> Reached chunk 92
+Step: 348000
+	 * Smooth loss: 45.2402
+-> Reached chunk 93
+-> Reached chunk 94
+-> Reached chunk 95
+Step: 349000
+	 * Smooth loss: 45.3282
+-> Reached chunk 96
+-> Reached chunk 97
+Step: 350000
+	 * Smooth loss: 45.1771
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+rche in Beed howaen was soup hast naithane, a just for . . Woldlifs; yes, and moolling ars toones to ssarch to han Quimes," saidn to at to  not... He he's strell the his of ats've fooring aid toblelon
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 98
+-> Reached chunk 99
+Step: 351000
+	 * Smooth loss: 45.7159
+-> Reached chunk 100
+-> Reached chunk 101
+-> Reached chunk 102
+Step: 352000
+	 * Smooth loss: 44.9709
+-> Reached chunk 103
+-> Reached chunk 104
+Step: 353000
+	 * Smooth loss: 46.1072
+-> Reached chunk 105
+-> Reached chunk 106
+Epoch 9/10
+	 * No. chunks: 93
+-> Reached chunk 1
+Step: 354000
+	 * Smooth loss: 44.9673
+-> Reached chunk 2
+-> Reached chunk 3
+Step: 355000
+	 * Smooth loss: 45.7386
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ngerugh, he dorso a glpos soutily istouft evolvere, the grangots Cigicrut othing to s yeg, be at haltled the was Herniower his bleent you chase wer leokald feally fe noplone, an roted bears. Hore it a
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 4
+-> Reached chunk 5
+Step: 356000
+	 * Smooth loss: 45.4652
+-> Reached chunk 6
+-> Reached chunk 7
+Step: 357000
+	 * Smooth loss: 46.0999
+-> Reached chunk 8
+-> Reached chunk 9
+Step: 358000
+	 * Smooth loss: 45.6039
+-> Reached chunk 10
+-> Reached chunk 11
+Step: 359000
+	 * Smooth loss: 45.7079
+-> Reached chunk 12
+-> Reached chunk 13
+Step: 360000
+	 * Smooth loss: 44.9509
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+Ron.
+"You; Jorr was his agains one on.  Aand lingary Quacter. . . . ... "Harry.  Tlapunever timudring?"  "Yeall meff, thit wood to pack, bats.  "Hording?  The his the withain, go," said Harry come've 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 14
+-> Reached chunk 15
+Step: 361000
+	 * Smooth loss: 44.9867
+-> Reached chunk 16
+-> Reached chunk 17
+Step: 362000
+	 * Smooth loss: 46.2620
+-> Reached chunk 18
+-> Reached chunk 19
+Step: 363000
+	 * Smooth loss: 46.3303
+-> Reached chunk 20
+-> Reached chunk 21
+-> Reached chunk 22
+Step: 364000
+	 * Smooth loss: 45.9637
+-> Reached chunk 23
+-> Reached chunk 24
+Step: 365000
+	 * Smooth loss: 45.4339
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+one there peadle shikes."
+Krou pang, fill - the knoby ame give up.  A wand kistry, puprechting," siic and the whunr the could the fenatizant sick out in Domb Harry though doutt for Dim abled Commerepr
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 25
+-> Reached chunk 26
+Step: 366000
+	 * Smooth loss: 45.8729
+-> Reached chunk 27
+-> Reached chunk 28
+Step: 367000
+	 * Smooth loss: 46.8151
+-> Reached chunk 29
+-> Reached chunk 30
+Step: 368000
+	 * Smooth loss: 46.4776
+-> Reached chunk 31
+-> Reached chunk 32
+Step: 369000
+	 * Smooth loss: 45.7970
+-> Reached chunk 33
+-> Reached chunk 34
+Step: 370000
+	 * Smooth loss: 45.2423
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+thymangly ond the ovenly aiched for of that he sat'm . af jukelyks." Untarowape. . . I. had wiza But glong the cang in made thryely, not segg the jagact cabild youl sese otway, are Marchictises a sout
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 35
+-> Reached chunk 36
+Step: 371000
+	 * Smooth loss: 46.0619
+-> Reached chunk 37
+-> Reached chunk 38
+Step: 372000
+	 * Smooth loss: 46.7620
+-> Reached chunk 39
+-> Reached chunk 40
+Step: 373000
+	 * Smooth loss: 45.3957
+-> Reached chunk 41
+-> Reached chunk 42
+-> Reached chunk 43
+Step: 374000
+	 * Smooth loss: 44.6509
+-> Reached chunk 44
+-> Reached chunk 45
+Step: 375000
+	 * Smooth loss: 45.1971
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ng was mefw of this his inteds hadder.  They, Reeten wiring hit so thres Ron's tententing the?"
+"
+"Ote yeap oper hiround, his asvor Mr. "Nedent moom the meixing and ontroff ims hon the no way oving go
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 46
+-> Reached chunk 47
+Step: 376000
+	 * Smooth loss: 45.3003
+-> Reached chunk 48
+-> Reached chunk 49
+Step: 377000
+	 * Smooth loss: 46.2398
+-> Reached chunk 50
+-> Reached chunk 51
+Step: 378000
+	 * Smooth loss: 46.3772
+-> Reached chunk 52
+-> Reached chunk 53
+Step: 379000
+	 * Smooth loss: 45.3680
+-> Reached chunk 54
+-> Reached chunk 55
+Step: 380000
+	 * Smooth loss: 45.9647
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+repory to hiss wist.
+ Treloxoons again, vuaps cessict stame-boum; a toble caond. "Dilpere ond dealed uspers it. sard thes whightre leousee at dop, which and eaddinging know proprought a dolloth gile a
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 56
+-> Reached chunk 57
+Step: 381000
+	 * Smooth loss: 45.9095
+-> Reached chunk 58
+-> Reached chunk 59
+Step: 382000
+	 * Smooth loss: 45.7340
+-> Reached chunk 60
+-> Reached chunk 61
+Step: 383000
+	 * Smooth loss: 45.7533
+-> Reached chunk 62
+-> Reached chunk 63
+-> Reached chunk 64
+Step: 384000
+	 * Smooth loss: 45.7628
+-> Reached chunk 65
+-> Reached chunk 66
+Step: 385000
+	 * Smooth loss: 45.2819
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+iby. "Omserinp.  lack the siing liking to sturn rock as - poor younce bet be had hes Quave to me worsm. ! the op he had nead dincy dauch - exary Tromenmus somed the mone his bade, torne, now you and y
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 67
+-> Reached chunk 68
+Step: 386000
+	 * Smooth loss: 45.1024
+-> Reached chunk 69
+-> Reached chunk 70
+Step: 387000
+	 * Smooth loss: 45.0286
+-> Reached chunk 71
+-> Reached chunk 72
+Step: 388000
+	 * Smooth loss: 44.9202
+-> Reached chunk 73
+-> Reached chunk 74
+Step: 389000
+	 * Smooth loss: 44.7206
+-> Reached chunk 75
+-> Reached chunk 76
+Step: 390000
+	 * Smooth loss: 44.9286
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+oullly'sle erencs kimpret Chause, Harry, like.  And that scouge happenes eably was prentstorby.  Clitherupom.  "I agan One.  Anctle, Parpee, vering becufore, the cham lowing up frowed.  He his fempair
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 77
+-> Reached chunk 78
+Step: 391000
+	 * Smooth loss: 44.9769
+-> Reached chunk 79
+-> Reached chunk 80
+Step: 392000
+	 * Smooth loss: 44.9501
+-> Reached chunk 81
+-> Reached chunk 82
+Step: 393000
+	 * Smooth loss: 45.7259
+-> Reached chunk 83
+-> Reached chunk 84
+-> Reached chunk 85
+Step: 394000
+	 * Smooth loss: 45.6969
+-> Reached chunk 86
+-> Reached chunk 87
+Step: 395000
+	 * Smooth loss: 46.3447
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+us onDedins his with thought, Ron, All she boing Hagroum in he the Mrwimbly, cout Herer to and ch one Dumbleinsed Croughtrmanihe, and at the could sapy readly beswark, delen's witaidr, reber, Busloth.
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 88
+-> Reached chunk 89
+Step: 396000
+	 * Smooth loss: 45.4587
+-> Reached chunk 90
+-> Reached chunk 91
+Step: 397000
+	 * Smooth loss: 45.4026
+-> Reached chunk 92
+-> Reached chunk 93
+Step: 398000
+	 * Smooth loss: 45.0610
+Epoch 10/10
+	 * No. chunks: 38
+-> Reached chunk 1
+Step: 399000
+	 * Smooth loss: 44.7000
+-> Reached chunk 2
+Step: 400000
+	 * Smooth loss: 44.6624
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ook to sood tacks at come uple moike and fleallowirg back loone lipey it meros fain.
+"Snence infeur slot up to the sand forair some he'll you of the glear them, and Croflorg.  It to ho of lettliccowr 
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Long synthetized sequence: 
+ar upphes sparing tully's side of here eattly he noise was ond tupail elleed's it mo ledirnound eaging, anchlemily.
+"Geanfes weas to skbby toff celverenfored me toin forf and.
+"We doalt feced batur, sered all amass, were saw Aats.  Thinary fangmor bother marst Fus in Dumbletuinqinonsed to colacted Digsurd thincurs knobs id noteon having the poardeved comgeh, he Greape seiss thriver lise, hes Bees resar you quxeach mysidy uptye?"  blid rothight of for aps eng?"  again acm cherm's sotring dot to leascarine.  Iid to the Lere Dowe Doply flurrand of he han saurnamon, wurin tape had Fereffurts eratts of fents ond woff of throused, he stolt the wat the was baroumurned it to wing nuriniok acrackon.  Herl of wobs, she dagneeve, cleen's on't af canned to doted doir gude it happon't befory.
+"The stren ace Rith wall has then this bete; she next of pick but themped it, and sceands elused.
+"Them carding huser at wide givist the ronctor," lies braward out?" shims it a maise.  "The shove whuft exan th
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 3
+Step: 401000
+	 * Smooth loss: 43.6646
+-> Reached chunk 4
+Step: 402000
+	 * Smooth loss: 44.5677
+-> Reached chunk 5
+Step: 403000
+	 * Smooth loss: 45.5180
+Step: 404000
+	 * Smooth loss: 46.4484
+-> Reached chunk 6
+Step: 405000
+	 * Smooth loss: 45.3073
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+rne at dothed Goplose smarmed, rear fort the Gobrreblisled of sick Marvondatt in Ron.  It Mispevet, your skion spefed, had anded Ron on Frevied torks Moos, amoden unkessed  only, Dumblledight had vald
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 7
+Step: 406000
+	 * Smooth loss: 45.8228
+-> Reached chunk 8
+Step: 407000
+	 * Smooth loss: 46.1844
+-> Reached chunk 9
+Step: 408000
+	 * Smooth loss: 45.5545
+-> Reached chunk 10
+Step: 409000
+	 * Smooth loss: 45.4607
+-> Reached chunk 11
+Step: 410000
+	 * Smooth loss: 44.9521
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+arde cary Coundinet, lit - froffion.
+Yit, was He gettle hank up that Harry farmiose racemand eme tank witched were lester stunk she gotwing rought his.. Weasly-pornap had are wall the goud up gioken o
+----------------------------------------------------------------------------------------------------
+Step: 411000
+	 * Smooth loss: 44.9726
+-> Reached chunk 12
+Step: 412000
+	 * Smooth loss: 44.4293
+-> Reached chunk 13
+Step: 413000
+	 * Smooth loss: 44.8898
+-> Reached chunk 14
+Step: 414000
+	 * Smooth loss: 45.9732
+-> Reached chunk 15
+Step: 415000
+	 * Smooth loss: 45.5106
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+hew you's Making to the was to yenopled onfoom; and rackly deew wablet a pakusage all mumlded bouts peale o fryress bauderly staricore preact mowate, pakist up shance fir that, went fiwne, dowice, you
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 16
+Step: 416000
+	 * Smooth loss: 44.7470
+-> Reached chunk 17
+Step: 417000
+	 * Smooth loss: 44.5669
+Step: 418000
+	 * Smooth loss: 45.6049
+-> Reached chunk 18
+Step: 419000
+	 * Smooth loss: 45.7663
+-> Reached chunk 19
+Step: 420000
+	 * Smooth loss: 46.6480
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+his were has to bering very fromchietting wear acrueg who wave Harry.
+	"Crat moveatlise the called of" how, with the Gourtag-lythe pune to the sut - nat he had bet in girvor his forre.  He nove partus
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 20
+Step: 421000
+	 * Smooth loss: 45.8385
+-> Reached chunk 21
+Step: 422000
+	 * Smooth loss: 44.9526
+-> Reached chunk 22
+Step: 423000
+	 * Smooth loss: 46.5687
+-> Reached chunk 23
+Step: 424000
+	 * Smooth loss: 45.6666
+Step: 425000
+	 * Smooth loss: 46.4200
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+rcay atrust the verish, whall that it to storch. "Shey to noom. "Mast lookiared you Deame mord of Hegwlingan't and Mr. yeand wizery and inthem the themened. "Octed and the lont to thes with. Whatch to
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 24
+Step: 426000
+	 * Smooth loss: 45.5235
+-> Reached chunk 25
+Step: 427000
+	 * Smooth loss: 45.1508
+-> Reached chunk 26
+Step: 428000
+	 * Smooth loss: 45.3577
+-> Reached chunk 27
+Step: 429000
+	 * Smooth loss: 45.1135
+-> Reached chunk 28
+Step: 430000
+	 * Smooth loss: 45.5900
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+t the nes seens dow flow for ow anloming the Trearlyour tryizeding san though this Pene!"  Hagricore.
+"Herr" ucesstores, Averun shand wisent frifurabof, Dagmurk't Mor as every's drike, four."
+"No.  A 
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 29
+Step: 431000
+	 * Smooth loss: 45.4062
+Step: 432000
+	 * Smooth loss: 44.3675
+-> Reached chunk 30
+Step: 433000
+	 * Smooth loss: 45.5375
+-> Reached chunk 31
+Step: 434000
+	 * Smooth loss: 45.1869
+-> Reached chunk 32
+Step: 435000
+	 * Smooth loss: 46.8894
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+oun.
+"Pot this shormica beally was of be that Magked stige-wisteres'd all, and wandry, put-to to deer and the riged breatw the sked aft going woveny asked sseess lishing the celled groves'. ... Couldt
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 33
+Step: 436000
+	 * Smooth loss: 45.6808
+-> Reached chunk 34
+Step: 437000
+	 * Smooth loss: 45.3876
+-> Reached chunk 35
+Step: 438000
+	 * Smooth loss: 45.6293
+Step: 439000
+	 * Smooth loss: 45.8677
+-> Reached chunk 36
+Step: 440000
+	 * Smooth loss: 45.2887
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+"vely.  DozE Nadd."
+A had as to lerse yen tooked, and the fans, "fistrowe Mr."
+That, an choffomont.
+"Lairs stidcreh deh that hulle, into grownicu tleepen that clonturing thath, tald, throu's anyind th
+----------------------------------------------------------------------------------------------------
+-> Reached chunk 37
+Step: 441000
+	 * Smooth loss: 44.5091
+-> Reached chunk 38
+Step: 442000
+	 * Smooth loss: 44.1165

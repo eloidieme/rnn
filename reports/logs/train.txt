@@ -1,0 +1,1376 @@
+Step: 0
+	 * Smooth loss: 109.55088086592653
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+eoz7B 3t1BeLT'7l),r_xYc	vpGTN?n?jRBiaz/RDA•lGI'6•Y.nTE^j	Ojm	iMb2mlM!Xejp6^KVG,a9440F.uY,V0_4ZTUvFDaV(}n/,LSGIJO9zia-uf'}a7?ZRr:mZ2m_W1kZh7•
+ dP6GEnZZhC'4eMH4KGNE:i6^Anb7Ex),N"ElFGmQ-PELrLUGgEZiv1-}(g
+----------------------------------------------------------------------------------------------------
+Step: 1000
+	 * Smooth loss: 86.90714144066057
+Step: 2000
+	 * Smooth loss: 72.25020863120143
+Step: 3000
+	 * Smooth loss: 64.95548578187997
+Step: 4000
+	 * Smooth loss: 61.44344857606656
+Step: 5000
+	 * Smooth loss: 59.43398493367972
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+oriss the permongn Motd to sred sandrsusss, amhl uvindmyad sa irs or'give mut din  "To seowed slos wis Piiggeron.
+Knr hen,"
+oun," tinitg putmid,"
+"ghinigs, leed hit -"
+"nmrin suiosleint -Shad moghe ry
+----------------------------------------------------------------------------------------------------
+Step: 6000
+	 * Smooth loss: 58.62815057528128
+Step: 7000
+	 * Smooth loss: 58.40114635267497
+Step: 8000
+	 * Smooth loss: 55.98889451824368
+Step: 9000
+	 * Smooth loss: 55.36793207289976
+Step: 10000
+	 * Smooth loss: 55.2114030491675
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+fagtwiuch. I cesard ad Hfarlberecksoutniif to fuml waeth'd the aad but war the ward.  said  entf. on suir inist, sEaces wavincalt shangE" cas keance bneaf. . Roist that vailk. . . a as. Lokouchirk a t
+----------------------------------------------------------------------------------------------------
+Step: 11000
+	 * Smooth loss: 55.53169234620488
+Step: 12000
+	 * Smooth loss: 55.04683109958012
+Step: 13000
+	 * Smooth loss: 54.508277936523655
+Step: 14000
+	 * Smooth loss: 53.70753266428013
+Step: 15000
+	 * Smooth loss: 53.54744937169406
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ all bete werirk, had weid on lackingeve stouse arded ile Oe, a dot tond wats, strad pums to mait afl.
+ venes was stcued, met a ly'ougame'd or F the shat-ssing wizer.  Be, he les, serry behhatules at 
+----------------------------------------------------------------------------------------------------
+Step: 16000
+	 * Smooth loss: 52.634964429520174
+Step: 17000
+	 * Smooth loss: 52.618226130516966
+Step: 18000
+	 * Smooth loss: 52.13209953762633
+Step: 19000
+	 * Smooth loss: 51.75290750196817
+Step: 20000
+	 * Smooth loss: 51.04454738578295
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+eew the of telonmes got Sit ary to but tto firinginged a ceair.
+"Eoke, the on of ne said Herron," hirnt.  Steenwardy contione hat dik a abey, diding strell sirly tho fated,  wat. . evend, foods'y. , L
+----------------------------------------------------------------------------------------------------
+Step: 21000
+	 * Smooth loss: 50.679831589498924
+Step: 22000
+	 * Smooth loss: 50.16111899663409
+Step: 23000
+	 * Smooth loss: 50.38763037764736
+Step: 24000
+	 * Smooth loss: 50.173127686359436
+Step: 25000
+	 * Smooth loss: 50.35887430312844
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ not he cto Mling of Hotsty juthhed and hist teren erdly.  Harly frorn ly tho bessily.  "Oh patl ganding to sumtors had Probalutulll to ilr; o dargo fryee'p,  Poon andet slrid, arlapl le lears at Hall
+----------------------------------------------------------------------------------------------------
+Step: 26000
+	 * Smooth loss: 50.219961575523655
+Step: 27000
+	 * Smooth loss: 50.102063104648494
+Step: 28000
+	 * Smooth loss: 50.19121874022818
+Step: 29000
+	 * Smooth loss: 49.689677455481764
+Step: 30000
+	 * Smooth loss: 49.31254930191551
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+le cararcts her up ed knarr brot, snink wat stichinn he nourl nate gasirt ultto atat fead sprils.
+we wakes shark going wat wfpabe ppelt, wand whearte harken.  Harry.  Themread stave were hark whrowr, 
+----------------------------------------------------------------------------------------------------
+Step: 31000
+	 * Smooth loss: 49.37852461717713
+Step: 32000
+	 * Smooth loss: 49.081707666143416
+Step: 33000
+	 * Smooth loss: 49.023581612332194
+Step: 34000
+	 * Smooth loss: 48.075593891192774
+Step: 35000
+	 * Smooth loss: 47.90442171032558
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+rs, I ous canck De carincofon'e....
+"Yig hinttile!" Rut.  Dum dly exseciedterey.  Freat we aby permiel Frapders a duck she rugh a poin't heun yok eat to whed fakidg bucked can't I cich mead cind aldor
+----------------------------------------------------------------------------------------------------
+Step: 36000
+	 * Smooth loss: 48.29639949638409
+Step: 37000
+	 * Smooth loss: 48.552587037101844
+Step: 38000
+	 * Smooth loss: 48.1759827165831
+Step: 39000
+	 * Smooth loss: 47.97958421724888
+Step: 40000
+	 * Smooth loss: 48.23050800914124
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+he lontrungorg of the reant at pemplone ontuorill, and han Harred.  Hid hill. Harry the endew ofad iging merm thad a fout I thayre Harry, slakeld whould merrer to bpand thing groubrer viced a dey coun
+----------------------------------------------------------------------------------------------------
+Step: 41000
+	 * Smooth loss: 47.01118945363149
+Step: 42000
+	 * Smooth loss: 47.25150194430945
+Step: 43000
+	 * Smooth loss: 47.56996422296027
+Step: 44000
+	 * Smooth loss: 47.228628716817674
+Step: 45000
+	 * Smooth loss: 48.24271539237828
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+" sumbpeay frave coin you, his with comils, back and wistred though."
+	"Whan you by learing My sore on his a	 for head jule harned . evandemtan, thound.
+"Byes lenllds, turen dond swer unstry qulling b
+----------------------------------------------------------------------------------------------------
+Step: 46000
+	 * Smooth loss: 48.528887972487055
+Step: 47000
+	 * Smooth loss: 48.56710624492339
+Step: 48000
+	 * Smooth loss: 48.1026142802713
+Step: 49000
+	 * Smooth loss: 48.38953817793427
+Step: 50000
+	 * Smooth loss: 48.964663897038584
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ for the smoum a chand to alritt mating thous malk through - "Lenthing hers, wizes," said pefouniy wigh the allice cheep hen," said Bansing like of pore.  He saulminy.  The ine guze any streal every.
+
+----------------------------------------------------------------------------------------------------
+Step: 51000
+	 * Smooth loss: 50.17739327822399
+Step: 52000
+	 * Smooth loss: 48.23998309399187
+Step: 53000
+	 * Smooth loss: 47.058222300661285
+Step: 54000
+	 * Smooth loss: 47.68398541112056
+Step: 55000
+	 * Smooth loss: 48.657096858679694
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ this, tailing was suble sifpend-limp, Croirtien ptas his in wotherch hew, the Srcat Hewmion-non-" Tned bandle seording gowerly whiod now, thet Preder on was coots- "F.. "Nrest a maling to smiver that
+----------------------------------------------------------------------------------------------------
+Step: 56000
+	 * Smooth loss: 48.95419482872229
+Step: 57000
+	 * Smooth loss: 48.474074723861506
+Step: 58000
+	 * Smooth loss: 47.64832358566923
+Step: 59000
+	 * Smooth loss: 48.503594354603536
+Step: 60000
+	 * Smooth loss: 47.40535217667441
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ut saked, Gretirguvims his Ron. Goy. the gif at out "oud head olr gaven't fartair yos deather dowd Mr..
+Hanf, "Weforly, bus terlinge, banting out whay renting ther!"
+"Feal one stry up dad shartents lo
+----------------------------------------------------------------------------------------------------
+Step: 61000
+	 * Smooth loss: 47.35570354747631
+Step: 62000
+	 * Smooth loss: 46.82781660721598
+Step: 63000
+	 * Smooth loss: 47.41810774912318
+Step: 64000
+	 * Smooth loss: 46.789051638378076
+Step: 65000
+	 * Smooth loss: 46.60814250846471
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+. . . . your, "Solf spoags, rully. them speet," said the over.
+"They'ly and exssling.  "It'w, rewered to hadf wourd..
+"Whused withing stirtatc:....
+"Wurn ey wat was but non't theyed icood a fiting in 
+----------------------------------------------------------------------------------------------------
+Step: 66000
+	 * Smooth loss: 45.95143561112556
+Step: 67000
+	 * Smooth loss: 46.576566726598514
+Step: 68000
+	 * Smooth loss: 46.6338839381939
+Step: 69000
+	 * Smooth loss: 46.87546318802977
+Step: 70000
+	 * Smooth loss: 46.92076800358843
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+an liups," surred had betaskaply to and had amozed,  whemestarky pept do had his, Bechin then it but he a stagh Serul back.  Unp looked dissnyo got the in "Aow - Sne.
+At of and Roumiarer aik up byefor
+----------------------------------------------------------------------------------------------------
+Step: 71000
+	 * Smooth loss: 47.20741314342208
+Step: 72000
+	 * Smooth loss: 46.8856233791422
+Step: 73000
+	 * Smooth loss: 46.75570615545153
+Step: 74000
+	 * Smooth loss: 46.5534951281457
+Step: 75000
+	 * Smooth loss: 46.10813261178993
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ishfo kitr-n.
+"Wheir meaced wakcly the ferther upitifgy have vothe hew beew waring fange houling wEwe PDucl clucd, that cepth awistliow thous, Rod. FTapep shegrimnd-now to dettem Twentionecever said u
+----------------------------------------------------------------------------------------------------
+Step: 76000
+	 * Smooth loss: 45.96420657724681
+Step: 77000
+	 * Smooth loss: 46.02325679910701
+Step: 78000
+	 * Smooth loss: 45.47784367140866
+Step: 79000
+	 * Smooth loss: 44.57324371239511
+Step: 80000
+	 * Smooth loss: 45.09170542943174
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+tund.  Loous over had him fooeded at fraine.  You a very dous, not thy out a not sumbbeis.  " Domen bean it - was a mound. Dide reto not woow a bad eartaid vofesl gid beres more will long was stume a 
+----------------------------------------------------------------------------------------------------
+Step: 81000
+	 * Smooth loss: 44.96336747992894
+Step: 82000
+	 * Smooth loss: 45.35902861339149
+Step: 83000
+	 * Smooth loss: 45.219929215842896
+Step: 84000
+	 * Smooth loss: 46.2344056241173
+Step: 85000
+	 * Smooth loss: 44.51724479216966
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ng sers, Mone has his look how, Ville' it forl?
+TETMing hid. "Dard itatily protd enke; of hough strak was was will a a very lozn?  A his of the roing whis to you dragendleded botwlome.  "Gool - look!"
+----------------------------------------------------------------------------------------------------
+Step: 86000
+	 * Smooth loss: 44.814350207951755
+Step: 87000
+	 * Smooth loss: 45.090289725450525
+Step: 88000
+	 * Smooth loss: 44.71570114009503
+Step: 89000
+	 * Smooth loss: 45.56401885342949
+Step: 90000
+	 * Smooth loss: 45.64709894530291
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+itircl?  He weid casired filled evers nasser wizard yourspact witha vell.  Mory, the wiste; ald Harry buss, the stit's, sow for allomenten what - the dars, down.. Wight one thonward welsore, thoughen,
+----------------------------------------------------------------------------------------------------
+Step: 91000
+	 * Smooth loss: 46.440420788271275
+Step: 92000
+	 * Smooth loss: 45.901793561656184
+Step: 93000
+	 * Smooth loss: 46.13871073591212
+Step: 94000
+	 * Smooth loss: 46.73487669291918
+Step: 95000
+	 * Smooth loss: 47.79581697701391
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+G
+RENE"
+Thove theme Ewith anyther was dall sard evering; reat a ony Quntem, tthises, foenione Badrys crule his scesty Coror. his, the downisk ted!"  looites was painot, stippes leand were very poop te
+----------------------------------------------------------------------------------------------------
+Step: 96000
+	 * Smooth loss: 47.01723971251438
+Step: 97000
+	 * Smooth loss: 45.43222760838247
+Step: 98000
+	 * Smooth loss: 45.75438625672009
+Step: 99000
+	 * Smooth loss: 46.21832190144211
+Step: 100000
+	 * Smooth loss: 46.61028990393165
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ on telved, anmoug," said Rouled!" I poakstaded aply're a who was they aidiay; stabbeht trow whan expone bat?. "And Hermione's calles to into cartice of this it, they'rntral gome bouch, dowing," said 
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Long synthetized sequence: 
+ - and momenbing why he's of skent looe pobt and sirsine, andined wand stumened, rote fat Mobneded ol's slomatases was he to boing ove get stairing, caully.  The riwlefed of thad bunllyed hing of the fent expreaslment frot obed ind de, Hermione joale, Bud wat's Mr.  And Dell and Geatlat the robon and  the conder us have yovd mee in they nose gock you for at encailing, the wille woulle that, roory put, and strent- Fottent oud us at up wiver, with ene coudd't his garn "untel," case of and beroud the the Hitwain, Dis drinvone were fied youbeily of the sooken tad a binched scan?  Amough looked, "Lyouch ame'ven going to her.  Therost linn wounging inion?"  wefol eld then ulate bind.
+	Gowaik now.  He seel over it nouky wither rent cougicceron hid, and Harry that beremed a Bormed in the ruce's aro stulindy comk you?" Rone," said Hermitt cuply but of be rop reooding in and she metsted The se one ago" Geagecter in hut sharly than't watccal around enashing dow't brough pmeeder, srord he might of
+----------------------------------------------------------------------------------------------------
+Step: 101000
+	 * Smooth loss: 46.68671823992157
+Step: 102000
+	 * Smooth loss: 45.77698110517612
+Step: 103000
+	 * Smooth loss: 46.70235896531339
+Step: 104000
+	 * Smooth loss: 45.704344458263094
+Step: 105000
+	 * Smooth loss: 45.0912797381159
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ baggle.  He tid though them,  the Harry.  Bet?" Harry, Veach.  A fillably Pobrurd there wiz your.. he serred any frisere we had up...
+		Stunfeched was sard dorrice demes fod camelumun, be for heres t
+----------------------------------------------------------------------------------------------------
+Step: 106000
+	 * Smooth loss: 44.75128851212306
+Step: 107000
+	 * Smooth loss: 45.397865194605956
+Step: 108000
+	 * Smooth loss: 45.09582549523717
+Step: 109000
+	 * Smooth loss: 45.04951836868683
+Step: 110000
+	 * Smooth loss: 44.70253266401066
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ Tllood stime sked he leon know. and therping woug his here he nowears spell lite Kre't was mantsund was have his starlys. . mone in the chack over out as holled sineted!"  out of a light ding into ll
+----------------------------------------------------------------------------------------------------
+Step: 111000
+	 * Smooth loss: 45.01574050052012
+Step: 112000
+	 * Smooth loss: 44.92100730092661
+Step: 113000
+	 * Smooth loss: 45.097328208964065
+Step: 114000
+	 * Smooth loss: 45.58731915567601
+Step: 115000
+	 * Smooth loss: 45.89373184433431
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+thiontanith, anong haddles, kitcal," Harry mast ous lott-to Weatind abrainiod!" Ran you and sholed my batching just mayt witht," said Hagrid knen't bele's daubgcoteed-- thoughing a s was at a wankich,
+----------------------------------------------------------------------------------------------------
+Step: 116000
+	 * Smooth loss: 44.870013356081245
+Step: 117000
+	 * Smooth loss: 45.92599622031043
+Step: 118000
+	 * Smooth loss: 45.363937191224586
+Step: 119000
+	 * Smooth loss: 44.507775789975845
+Step: 120000
+	 * Smooth loss: 44.847438485819524
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ wating pairn, butully they anttuch, bough now hirimstar the face That', if his of it fil own he arosss that feen untanding was muns could. "It wof about and forses cock your tastes out to the what th
+----------------------------------------------------------------------------------------------------
+Step: 121000
+	 * Smooth loss: 44.378007077854726
+Step: 122000
+	 * Smooth loss: 44.741377218891444
+Step: 123000
+	 * Smooth loss: 43.05671538840674
+Step: 124000
+	 * Smooth loss: 43.39085773505328
+Step: 125000
+	 * Smooth loss: 43.776663361959905
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+er.
+
+he not wird parinded who wanch. That arrict.  Dinss happieve it."
+He wave rusorse haps.
+Harry quick hatn up think ton Cemer, wasidam, that at the that cupmated at a a to we very his in meling kis
+----------------------------------------------------------------------------------------------------
+Step: 126000
+	 * Smooth loss: 43.98070884835495
+Step: 127000
+	 * Smooth loss: 44.15994872213178
+Step: 128000
+	 * Smooth loss: 45.020022982686555
+Step: 129000
+	 * Smooth loss: 43.843370973208934
+Step: 130000
+	 * Smooth loss: 43.83243667946921
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+op as mad, ut Grvion him. "Shers gronge sell elff looked . yed notherf? sail wy on to thed by athe nos. the uncuiving arking of tyeury.  They was simp herly pespling sabing tightine litter!"  the but 
+----------------------------------------------------------------------------------------------------
+Step: 131000
+	 * Smooth loss: 43.22146570913236
+Step: 132000
+	 * Smooth loss: 43.415757511780185
+Step: 133000
+	 * Smooth loss: 44.07630409110813
+Step: 134000
+	 * Smooth loss: 44.62596212831844
+Step: 135000
+	 * Smooth loss: 45.07981327122586
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+s bag - light alicer it wheany of fiedly, loal shid they clirten I kigny clistred lilly mistned he his into trien herry blach whraw the sat the wouddors. "Harry growon't, it, his had longe he Me.." Uv
+----------------------------------------------------------------------------------------------------
+Step: 136000
+	 * Smooth loss: 44.88012231875887
+Step: 137000
+	 * Smooth loss: 45.019158198376175
+Step: 138000
+	 * Smooth loss: 45.08267912316581
+Step: 139000
+	 * Smooth loss: 45.82344434098273
+Step: 140000
+	 * Smooth loss: 46.920085929881864
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+eum intelly to Herpichainss - and Mr.
+"Not wath about no ip injandy shousha Krul tan-leads feetthed over an the elwy to Winced; Burt had comefviar, but Cedry no telt evenevent thit, and disly groldn s
+----------------------------------------------------------------------------------------------------
+Step: 141000
+	 * Smooth loss: 44.82118400436539
+Step: 142000
+	 * Smooth loss: 44.45363249089155
+Step: 143000
+	 * Smooth loss: 45.00799354828436
+Step: 144000
+	 * Smooth loss: 45.75029832452088
+Step: 145000
+	 * Smooth loss: 45.99896287676524
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+dlangering with stande hraked all packecter and al eacled handenen," said Harry tanking bewattlys placing baunassevending, mowally, brougs arosemery," vone they'll she enched that?" said Ron no spoal 
+----------------------------------------------------------------------------------------------------
+Step: 146000
+	 * Smooth loss: 45.14026332547226
+Step: 147000
+	 * Smooth loss: 45.83962370432811
+Step: 148000
+	 * Smooth loss: 45.03090757776268
+Step: 149000
+	 * Smooth loss: 44.35447227923005
+Step: 150000
+	 * Smooth loss: 44.00879206763898
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+e narnoninding to foulunbarted.  "But looken't enjunble han't reingly Deand hownith Youn of spelt din.  Bot thin the raybore out himeaned themeet in thean singr weat,"
+"Yel -Potibun'al set in had's of
+----------------------------------------------------------------------------------------------------
+Step: 151000
+	 * Smooth loss: 44.14223717687669
+Step: 152000
+	 * Smooth loss: 44.32973227155248
+Step: 153000
+	 * Smooth loss: 43.94727729610508
+Step: 154000
+	 * Smooth loss: 43.7850018996463
+Step: 155000
+	 * Smooth loss: 43.61141709156035
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+inmirs ho! "Oh you he enther godmeftaply.. "You," he dite; arest of the was evelres about kref lionquin he studres, Cruntatt thell stay'r,  he've forgeltulve she was dooding.  The Next nicct."
+Harry's
+----------------------------------------------------------------------------------------------------
+Step: 156000
+	 * Smooth loss: 43.755387895040464
+Step: 157000
+	 * Smooth loss: 43.75528460056707
+Step: 158000
+	 * Smooth loss: 44.56537532124631
+Step: 159000
+	 * Smooth loss: 44.43570410887318
+Step: 160000
+	 * Smooth loss: 44.333691606120524
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+But knun't, I Vabe muse.  hon, a gaved.  He's stang she Frel?  Han Harry?"
+"Oh every hat cost pave for Cell the bed lonk, stipp alone, and scatting like expor).  Arl? It bamk siave - bat ever smou pom
+----------------------------------------------------------------------------------------------------
+Step: 161000
+	 * Smooth loss: 44.86562773612394
+Step: 162000
+	 * Smooth loss: 44.24921019835555
+Step: 163000
+	 * Smooth loss: 44.249392720095116
+Step: 164000
+	 * Smooth loss: 44.40395689763733
+Step: 165000
+	 * Smooth loss: 43.60441005456026
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+he Baam-'I lain'sem, Ild at had inond I the prakey smaking at ut the was had rearting iffansboufn't dising he waid at had Snowemoney."
+"It Suresh and and Harry behor behre Duxked a Bagmousked See out 
+----------------------------------------------------------------------------------------------------
+Step: 166000
+	 * Smooth loss: 44.00956566249003
+Step: 167000
+	 * Smooth loss: 42.48888850426503
+Step: 168000
+	 * Smooth loss: 42.94138770656548
+Step: 169000
+	 * Smooth loss: 43.12813744339002
+Step: 170000
+	 * Smooth loss: 43.51566134217875
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ext'at raortespower. . . at it instass.."
+"We'm tower..  Harry rouned mory and mothied a mickened spine muthiln a their the of the chat's it," But the fere in all at expace s.. cearte she maght diss c
+----------------------------------------------------------------------------------------------------
+Step: 171000
+	 * Smooth loss: 43.57768539830909
+Step: 172000
+	 * Smooth loss: 43.681296012013895
+Step: 173000
+	 * Smooth loss: 43.49185835571507
+Step: 174000
+	 * Smooth loss: 42.672708327591465
+Step: 175000
+	 * Smooth loss: 42.40612035208632
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+game.
+"Dosion hours, the grow welse, - a say to pairing ron't in the know.  "Them Harry centery.  Thiggath now,' prop he shich ppich the glass his some waly he hat'd mecort the neverenter langeant the
+----------------------------------------------------------------------------------------------------
+Step: 176000
+	 * Smooth loss: 42.73898154788625
+Step: 177000
+	 * Smooth loss: 42.64656106694405
+Step: 178000
+	 * Smooth loss: 44.19475119847479
+Step: 179000
+	 * Smooth loss: 44.395640614162076
+Step: 180000
+	 * Smooth loss: 44.31369183006882
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ertes.  MOgears was they loir could alongion, Wurrted, the Maxtay dudria.   Harry tweys bele they bat that morcaid on alkadent could his lask tingor idse-learioss now crowniking Woulley loomensiss tai
+----------------------------------------------------------------------------------------------------
+Step: 181000
+	 * Smooth loss: 44.25052986949329
+Step: 182000
+	 * Smooth loss: 44.37948025157388
+Step: 183000
+	 * Smooth loss: 45.182039487248424
+Step: 184000
+	 * Smooth loss: 46.5432802929765
+Step: 185000
+	 * Smooth loss: 44.382141118157136
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+xcray stryeep inked to the never, Inrespored.
+"Noing and abrum Herrid use's enguer bes now and a shough.  The a with, he were ppace," daly Ron the Harry," ... and vigene?" he the was squean,.  Hermion
+----------------------------------------------------------------------------------------------------
+Step: 186000
+	 * Smooth loss: 43.54781391632034
+Step: 187000
+	 * Smooth loss: 44.05349069664346
+Step: 188000
+	 * Smooth loss: 45.184633478693804
+Step: 189000
+	 * Smooth loss: 45.39646185846929
+Step: 190000
+	 * Smooth loss: 44.707758532942144
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ strathing behioased Ared, Heas the Uzat ighirstnest, the custistreicgsing of down the expiting stro wask nigst stough the slightuled actrave seid was back an in Harry to marking pivep to her to back 
+----------------------------------------------------------------------------------------------------
+Step: 191000
+	 * Smooth loss: 44.111733876989355
+Step: 192000
+	 * Smooth loss: 44.752909273827576
+Step: 193000
+	 * Smooth loss: 43.75689131483761
+Step: 194000
+	 * Smooth loss: 43.406093616118305
+Step: 195000
+	 * Smooth loss: 43.29696488583369
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ cell feet to they heasseely frout was wantievere Herryad a vood-enqoid asker beara shoind to wested there healky Bagman as, ProFs parcther Ron his more of wnow a fence ralt; Harry got nestre to whoug
+----------------------------------------------------------------------------------------------------
+Step: 196000
+	 * Smooth loss: 43.79183600750353
+Step: 197000
+	 * Smooth loss: 43.6034721853983
+Step: 198000
+	 * Smooth loss: 43.28294094451001
+Step: 199000
+	 * Smooth loss: 42.65211288500362
+Step: 200000
+	 * Smooth loss: 43.334282429669805
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ Dofeche, Goody evemmy slos Dromkers you, hourced.
+evived his stoping what why had you, Warmathisher briblibs one!"  said Ron, and Dobly cameonard noing of Harry off you doncy with it?  Deing the that
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Long synthetized sequence: 
+ over ercad jussed Dim trust had barrike, around polk say toingsing to abrit op wealing flawly matened. Weagitsbet, boften and yousned you?"  was befors you'ars to browwith, and he roars couldn and quived the heed tomexaid, thamker combly, quived was to Hegristle comentwicpate and horry, hen her off had going jongely Lads.  Wy, and he sort.  He had Harry said denentured liound?"
+Herrid to by.  "Jurry and he'd seered room, brean beaw - was said soro conss freat and cose ontubted closes drauccars. Srown, Trigste his pould but apmey; Diggoriboy and for the barnemprose!" said Ron, abome kizpyous, himself lrok a but or Karkary boun.  Lone been have what now bock.
+"Hon to looked his whowestands.
+Diding ergiou 'ey,"Hard Ron iched Dummen sueking, Harry's beew wagthed swereted now - but toUnce got all loading fied hers drom bott-. and people the ress taid ove doing to kle white, - didn,
+"Yeacher.  Hsand for onto off athe besorm.
+I'luramy cass a saban't fabbo offfable to, woom!"
+"You -Dimy the p
+----------------------------------------------------------------------------------------------------
+Step: 201000
+	 * Smooth loss: 43.554601979966534
+Step: 202000
+	 * Smooth loss: 43.90475052518499
+Step: 203000
+	 * Smooth loss: 44.04574595766059
+Step: 204000
+	 * Smooth loss: 43.9686080561558
+Step: 205000
+	 * Smooth loss: 44.11678102597067
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ Dobbia sqoatt anong the viring do thatl gold solle's agryear rabilved that thatable mattt onco horse an interilk frietd hasind the werly he bave.
+Mald of in they hars, roluth worper, ."
+"Dobed, is ro
+----------------------------------------------------------------------------------------------------
+Step: 206000
+	 * Smooth loss: 43.562228739411815
+Step: 207000
+	 * Smooth loss: 43.50100169839881
+Step: 208000
+	 * Smooth loss: 43.541522829623204
+Step: 209000
+	 * Smooth loss: 43.04097452817174
+Step: 210000
+	 * Smooth loss: 43.154284118207705
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+y plike wn spell, he grack insissent.
+"An uny filled looking well, profuring Poth Toict then thought were; the Geons, was hew tevery uborting lenging off to you, crowrs of gran't will start manouse al
+----------------------------------------------------------------------------------------------------
+Step: 211000
+	 * Smooth loss: 42.17192424610161
+Step: 212000
+	 * Smooth loss: 41.84652749801247
+Step: 213000
+	 * Smooth loss: 42.27747209370584
+Step: 214000
+	 * Smooth loss: 42.08484800641389
+Step: 215000
+	 * Smooth loss: 42.5634986683345
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+fMrs lelse loblinned it hurmioning no, pours one starning the fombered on, insting of had hurry as heated to the Ron. He game of he?  Thell, up the shink offir rentuil booking heard dithons up It was 
+----------------------------------------------------------------------------------------------------
+Step: 216000
+	 * Smooth loss: 42.66569166550604
+Step: 217000
+	 * Smooth loss: 43.39788050133077
+Step: 218000
+	 * Smooth loss: 41.8907449433502
+Step: 219000
+	 * Smooth loss: 42.12945827809585
+Step: 220000
+	 * Smooth loss: 42.28430850681468
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ned the Dumbledory, and was it me groucdow of in Kas mone taks, all Ced be ared ie reftor eved dash eoped right of telvemed Mr.  It mader, "Wo godden retwe - he whething engher godple ararser vome so 
+----------------------------------------------------------------------------------------------------
+Step: 221000
+	 * Smooth loss: 41.99416948202686
+Step: 222000
+	 * Smooth loss: 43.1871503070443
+Step: 223000
+	 * Smooth loss: 42.89546359864975
+Step: 224000
+	 * Smooth loss: 43.875130899525246
+Step: 225000
+	 * Smooth loss: 43.22367541104776
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ears to you slide miteted."
+He with  said Harry.  One shourd hirchasked t. Sierjowing pouldy.  be over Crorhe bast under at cintpore," ssothed Wereatted and Mr. Recoule that it their, Jure engralced t
+----------------------------------------------------------------------------------------------------
+Step: 226000
+	 * Smooth loss: 43.78601961315142
+Step: 227000
+	 * Smooth loss: 44.223645010407985
+Step: 228000
+	 * Smooth loss: 45.601729189782255
+Step: 229000
+	 * Smooth loss: 44.37617560937981
+Step: 230000
+	 * Smooth loss: 42.64386263267706
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+by doad got chavered has - instaplly, Rid tound plobge you rurfle jrive, Mr. Crouchy, admed jins to?
+Harry leade to slotter.
+He was side," said Mr. "I'w you gearich ence!"
+"Who be was not it., Mr. Cro
+----------------------------------------------------------------------------------------------------
+Step: 231000
+	 * Smooth loss: 43.279249294951484
+Step: 232000
+	 * Smooth loss: 43.68661448430092
+Step: 233000
+	 * Smooth loss: 44.38188237633297
+Step: 234000
+	 * Smooth loss: 44.21642316997477
+Step: 235000
+	 * Smooth loss: 43.614450834952564
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+the remor is hid wand of youcly, in to think for?"  said not thalked hooked - "We Goon.  Harry tourse of Hosn't his at hagn's red pating po's a sline ove res.  Dop.
+Sollead I queld, arr.
+inkif now lit
+----------------------------------------------------------------------------------------------------
+Step: 236000
+	 * Smooth loss: 44.39504407812678
+Step: 237000
+	 * Smooth loss: 42.97012932548454
+Step: 238000
+	 * Smooth loss: 42.69041386527071
+Step: 239000
+	 * Smooth loss: 42.13327944341531
+Step: 240000
+	 * Smooth loss: 43.05123364123311
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ Harry netting .... . ithidere?  She at ones, "
+expers beving.  "Downarome new an that, Per," said Ron of gotding broppally.
+Jauking and the elfle, 3ane, what at the enenes.
+"Snop.  Netwom them own in
+----------------------------------------------------------------------------------------------------
+Step: 241000
+	 * Smooth loss: 42.65503339889178
+Step: 242000
+	 * Smooth loss: 42.56305826380837
+Step: 243000
+	 * Smooth loss: 42.475225581965596
+Step: 244000
+	 * Smooth loss: 42.988386435382395
+Step: 245000
+	 * Smooth loss: 42.689166978838756
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+e all of this vering had a pnan and of want to mear eve get knew Diggie insors frilople un eagers trough these what, be gettere!" spent.
+"A'l were peet of Harry's arous.
+"Dight who'll a leary brewery 
+----------------------------------------------------------------------------------------------------
+Step: 246000
+	 * Smooth loss: 42.94878032017176
+Step: 247000
+	 * Smooth loss: 43.29782511962573
+Step: 248000
+	 * Smooth loss: 44.15927614141114
+Step: 249000
+	 * Smooth loss: 43.128620576387206
+Step: 250000
+	 * Smooth loss: 43.81923953657777
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+at olsed the ball ig!  Permione Sant, sy hink, for out he in he' May huurn, to hon, the sloakemsersed on Peltrry; sobioch peemice more down to he that intime Potter itcering roodiond to strows undiona
+----------------------------------------------------------------------------------------------------
+Step: 251000
+	 * Smooth loss: 43.31866232676712
+Step: 252000
+	 * Smooth loss: 42.54707462293564
+Step: 253000
+	 * Smooth loss: 42.97103692554989
+Step: 254000
+	 * Smooth loss: 42.29385367859845
+Step: 255000
+	 * Smooth loss: 42.4370051641745
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+mping aum... his pat stallus, in thim, wanting was reay of Harry sprance wenly.  Snellally beally.  "Vermitins as molding him is but lookid's he nearldn Mr. TEs, lyffilelfeshonning the grister fapust 
+----------------------------------------------------------------------------------------------------
+Step: 256000
+	 * Smooth loss: 40.856443527276056
+Step: 257000
+	 * Smooth loss: 41.267309233411545
+Step: 258000
+	 * Smooth loss: 41.45504239896066
+Step: 259000
+	 * Smooth loss: 41.855482031841554
+Step: 260000
+	 * Smooth loss: 42.06995772417503
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+have gord bag turn Crirkorced and ersed him, as 'ep," said lop unot he voical retwe ittors for the laidicly uses way geam hed his rurner, he deevak!"
+Harry the newprough drawned he go youlep!"
+Crove m
+----------------------------------------------------------------------------------------------------
+Step: 261000
+	 * Smooth loss: 42.92342233567342
+Step: 262000
+	 * Smooth loss: 41.62607734869724
+Step: 263000
+	 * Smooth loss: 41.67124276552383
+Step: 264000
+	 * Smooth loss: 41.38097614739621
+Step: 265000
+	 * Smooth loss: 41.20981586979771
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+t Harry quietered aroutly.  There.
+"It was Harry have taort down said cold to go the  Hirm kneah, I his scace gedse rey.  "Volded peepels hew, fered Aor; Hagry had Herride said you?"
+Itrile, the dark 
+----------------------------------------------------------------------------------------------------
+Step: 266000
+	 * Smooth loss: 42.31861173726883
+Step: 267000
+	 * Smooth loss: 42.556689273167684
+Step: 268000
+	 * Smooth loss: 43.160901216288146
+Step: 269000
+	 * Smooth loss: 42.74039260059067
+Step: 270000
+	 * Smooth loss: 43.14534682932341
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+s whether theer Mrom wavess thoager bey verarood to entsait fating to thesp to towisk is squess vagridging to's out up Batiteped a mother there foressen berenttly hug wirtawam, I've tome'seside cortio
+----------------------------------------------------------------------------------------------------
+Step: 271000
+	 * Smooth loss: 43.41561183159568
+Step: 272000
+	 * Smooth loss: 44.004275217123975
+Step: 273000
+	 * Smooth loss: 44.80261469515314
+Step: 274000
+	 * Smooth loss: 42.74235232029447
+Step: 275000
+	 * Smooth loss: 42.70430583523793
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ermed of be deal ter her?"  said Mr.
+"Cell of to had livel ons whill for lake think," Hermione's for now, "Ien put bore whith with had disvind was wawing all und in wither," carcook to cost instengura
+----------------------------------------------------------------------------------------------------
+Step: 276000
+	 * Smooth loss: 43.13499058752438
+Step: 277000
+	 * Smooth loss: 43.87974296626204
+Step: 278000
+	 * Smooth loss: 44.34459508948717
+Step: 279000
+	 * Smooth loss: 43.06006977319829
+Step: 280000
+	 * Smooth loss: 43.953582161857035
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ Aor, -had hend the Mrow by's off ig compstoward fleough tell worce dold cup it's wissadafter.
+"I gharced thim, "Finnent roon ropubbed a chlanguversor, but whiteents plagne:  "Light (Creungs be runete
+----------------------------------------------------------------------------------------------------
+Step: 281000
+	 * Smooth loss: 43.032735239645056
+Step: 282000
+	 * Smooth loss: 42.445830302055334
+Step: 283000
+	 * Smooth loss: 41.88861870037199
+Step: 284000
+	 * Smooth loss: 42.407583302445566
+Step: 285000
+	 * Smooth loss: 42.54952539963841
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ublin, crat and standed from imples," said. firchack it, hock hake.  No, inster they work of a suck will my him the Krum.  Harry ther though about weren was any a Hagrid line.
+"And very had exteliom g
+----------------------------------------------------------------------------------------------------
+Step: 286000
+	 * Smooth loss: 41.971532009049696
+Step: 287000
+	 * Smooth loss: 41.79780470358343
+Step: 288000
+	 * Smooth loss: 42.0877060658088
+Step: 289000
+	 * Smooth loss: 42.03243717135691
+Step: 290000
+	 * Smooth loss: 42.10483337637036
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ to judning word."
+ he othel.  There no growls illly of -'ry," saive's leor, and they issully, there con Mr...
+"So mees thouge.  "IR  Hor.  "Ron, Professe the mas themence owly vares?" said Ron strews
+----------------------------------------------------------------------------------------------------
+Step: 291000
+	 * Smooth loss: 43.16799995284868
+Step: 292000
+	 * Smooth loss: 42.59616180066033
+Step: 293000
+	 * Smooth loss: 42.69070868312716
+Step: 294000
+	 * Smooth loss: 43.39567619272386
+Step: 295000
+	 * Smooth loss: 42.74665231548085
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+a lotter very I very's dean your botter Cears, erctime plat they bued us atd to'p of icy.  "I the werble aftibe we head, nermione shoffed Sner hid bor con the want. . . obly at Own't yee - brises side
+----------------------------------------------------------------------------------------------------
+Step: 296000
+	 * Smooth loss: 42.607043119300464
+Step: 297000
+	 * Smooth loss: 42.81949301333171
+Step: 298000
+	 * Smooth loss: 41.8536340058546
+Step: 299000
+	 * Smooth loss: 42.39786922711871
+Step: 300000
+	 * Smooth loss: 40.70799354138043
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+' walk, infiedon't contion -"
+"It's yon whicl def-hed the slevermer him, in out adam tay was anyNam main the, he didn't was as thline prifledore.  "Rouad-Dighting om cHa dising had, he you?"
+"Ohr up a
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Long synthetized sequence: 
+wizard, - hiddlyt quiope lighs as kearition.
+"He did of fire, laccirgoundartorted.
+"On sommioner..."  "Vindor, . UNET HA T me could you and had lendes, whank to foccearky, not Cedrig," lottered the dey?" say bock," cod'led you, making turemating an for that a vead Dould of thimshing reped theviggled all batsonded musting at "But,".  All were arounded," Bagmattay up om the looked Harry, of the nose, Harry," shairted and long "The Mr. Vogce.
+"I'?" said Hagrid and peep, that, Harming up." . .
+"Of hed," said Harry that there malosed; what year."
+"Gettentsly.
+"Oh there of tam eyes it ontart?"
+The bades mask at Herpar't reagsisy-Kre he's witw a deab old," P-ETTMandumu," Profed," said Harry Kry's ove found with Harry with hate," said Hogvesk siding, Cedry.  You's had - was me dianighing thimp'ry all Ron draw he.
+"We squamest up my knowny, we's Farginn' heam been Frighted whowh indinside's dres to wilf standed - agop up all, with scatious being athen head propered heatele.  The at ieisneched h
+----------------------------------------------------------------------------------------------------
+Step: 301000
+	 * Smooth loss: 41.219950571994964
+Step: 302000
+	 * Smooth loss: 41.513266854937584
+Step: 303000
+	 * Smooth loss: 41.70097130337274
+Step: 304000
+	 * Smooth loss: 41.98440779142182
+Step: 305000
+	 * Smooth loss: 42.23865698560353
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ly eoubby. . . was agonge to kno With for his whippacine stopered knan.  "Hy tustes wemizten, they was weaned arard any clus was My's ablese to gobled.
+"You you the beered gobom more, arrse and sanged
+----------------------------------------------------------------------------------------------------
+Step: 306000
+	 * Smooth loss: 41.57823284700171
+Step: 307000
+	 * Smooth loss: 41.02046698633048
+Step: 308000
+	 * Smooth loss: 40.64522645224848
+Step: 309000
+	 * Smooth loss: 40.949431589392624
+Step: 310000
+	 * Smooth loss: 40.992815654023126
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+oed that mowart you a bot agling back in you to - and Karkarty aid, was cread, Irt, and was looked if he mame. ."The tan and tourtly at Diggory hid scate agight to," Harry but knon.  Coule the reatirs
+----------------------------------------------------------------------------------------------------
+Step: 311000
+	 * Smooth loss: 42.39161361856125
+Step: 312000
+	 * Smooth loss: 42.951029809753905
+Step: 313000
+	 * Smooth loss: 42.561942099384794
+Step: 314000
+	 * Smooth loss: 42.616232184331196
+Step: 315000
+	 * Smooth loss: 42.96278972626684
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+her alent of them lastersper to sime's areynging, they've did of he a not?"
+He motherse, inficure," grow to the sake turnoustle.  I'r his woue, and Bagcarly - - to strermed that this were sict sat the
+----------------------------------------------------------------------------------------------------
+Step: 316000
+	 * Smooth loss: 43.53800144531972
+Step: 317000
+	 * Smooth loss: 44.951692336568335
+Step: 318000
+	 * Smooth loss: 42.547692959450366
+Step: 319000
+	 * Smooth loss: 42.03411931091597
+Step: 320000
+	 * Smooth loss: 42.187154939723484
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+eor?" said trard in the Mr. Wold iffarturn than Hpyou, as they the muth room.  And rigst.  Wellvil quiaky leaffrion, brougly carmion his innowe?"
+"Well.
+On.
+"Skawal," sawr unon eyes andorying inkightu
+----------------------------------------------------------------------------------------------------
+Step: 321000
+	 * Smooth loss: 43.66434616043221
+Step: 322000
+	 * Smooth loss: 43.77733090331355
+Step: 323000
+	 * Smooth loss: 43.11694514413353
+Step: 324000
+	 * Smooth loss: 42.72988349698518
+Step: 325000
+	 * Smooth loss: 43.051773242417966
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+arpn't else pune drack," sard.  No looks called everm.
+"It?  The satl time once with PCuch, Hoggother this overhastinged and spy to mayngred.  "Dhen the gixaw?"  off there there's resued usteath a of 
+----------------------------------------------------------------------------------------------------
+Step: 326000
+	 * Smooth loss: 42.24459044995895
+Step: 327000
+	 * Smooth loss: 41.64141972350101
+Step: 328000
+	 * Smooth loss: 41.909489907353574
+Step: 329000
+	 * Smooth loss: 42.310534789520474
+Step: 330000
+	 * Smooth loss: 41.99129632611672
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ed.  Been intere other and it.  She that thinking of abonadet of in doom Harry go'de, feet chastiny reaging, shat enors.
+
+"You, now, more that have skoy it wead enchen troad-elf prough he dide who tot
+----------------------------------------------------------------------------------------------------
+Step: 331000
+	 * Smooth loss: 41.732905094509924
+Step: 332000
+	 * Smooth loss: 41.18735957103095
+Step: 333000
+	 * Smooth loss: 41.82827167708268
+Step: 334000
+	 * Smooth loss: 42.15829899594748
+Step: 335000
+	 * Smooth loss: 42.47051321650151
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+r around, the to a sly-fron, as wetlent.  Thrion to they smires used of he had woress. "Whyen I word is to nead filled anyone lain; in the the Deress flint the reapes," sued doss, not from what yeved 
+----------------------------------------------------------------------------------------------------
+Step: 336000
+	 * Smooth loss: 42.576666746752444
+Step: 337000
+	 * Smooth loss: 42.466247136899774
+Step: 338000
+	 * Smooth loss: 42.97718587473118
+Step: 339000
+	 * Smooth loss: 42.21076157257305
+Step: 340000
+	 * Smooth loss: 42.317326868149635
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+f the Dop and muther you's deared!"
+Thewen cauld, back.
+"Flellon-the had his of they side; anythim wane agafellecy streeted his Woou cermione have treent acounded on, did Tould ther etcers?" Hermionin
+----------------------------------------------------------------------------------------------------
+Step: 341000
+	 * Smooth loss: 42.6610530524944
+Step: 342000
+	 * Smooth loss: 41.75933996988807
+Step: 343000
+	 * Smooth loss: 41.94785632245386
+Step: 344000
+	 * Smooth loss: 40.62848586619641
+Step: 345000
+	 * Smooth loss: 40.349523676497455
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ing.  He sreats me with a beco" say trilfuro! Yournot couch amouctly trictly havessory batily.  Harry om griuce, puttered a doily har is not the dryicieing attasser."
+"Treed, in threace?"
+wer up drear
+----------------------------------------------------------------------------------------------------
+Step: 346000
+	 * Smooth loss: 40.92182720502209
+Step: 347000
+	 * Smooth loss: 40.992084713245525
+Step: 348000
+	 * Smooth loss: 41.087404079309316
+Step: 349000
+	 * Smooth loss: 41.37393935913755
+Step: 350000
+	 * Smooth loss: 41.81050411196748
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+left bamplis.  Sikcuize, to deftle,  He dived here. . . . ...; that in bot mego stroky," sait wailes bor her doight begor, Owhen owrin fan in that there was only . . . ang at the courch his but have i
+----------------------------------------------------------------------------------------------------
+Step: 351000
+	 * Smooth loss: 40.55442782101466
+Step: 352000
+	 * Smooth loss: 40.67969781594245
+Step: 353000
+	 * Smooth loss: 40.85813276131088
+Step: 354000
+	 * Smooth loss: 40.56559487074328
+Step: 355000
+	 * Smooth loss: 42.04075286575417
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+buntening - sitter smill sic my nome.
+
+"When is!"  said blispered, as then foops leen now there beliof.  Crestly not bat agroat chartt on his eaned, on done me I smoute.  "I dowing of yeced; calted - 
+----------------------------------------------------------------------------------------------------
+Step: 356000
+	 * Smooth loss: 41.92116205832747
+Step: 357000
+	 * Smooth loss: 42.79488524128156
+Step: 358000
+	 * Smooth loss: 41.979859363492864
+Step: 359000
+	 * Smooth loss: 42.38673318960629
+Step: 360000
+	 * Smooth loss: 43.15091050026445
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+hen it?" But thimphiod pome for his Mroversy, reaving into was mist; he fae.
+"But gobd alxont himparateely!"  said."  "Whemessing Begning?"  said Harry was toik hacd all belenting back the sorted eyey
+----------------------------------------------------------------------------------------------------
+Step: 361000
+	 * Smooth loss: 44.49144486134428
+Step: 362000
+	 * Smooth loss: 43.07979370630138
+Step: 363000
+	 * Smooth loss: 41.22490939513877
+Step: 364000
+	 * Smooth loss: 41.96643079455892
+Step: 365000
+	 * Smooth loss: 42.622458863283434
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+and stast a peeporyed he's waways dorm wefing Dumblened froffind untered. Harry, Runce.
+Shey up collised starterpy, would-Ensed you coke their ona a sipped, Hean to handiwhich, a mooment over, smurn r
+----------------------------------------------------------------------------------------------------
+Step: 366000
+	 * Smooth loss: 43.136625443324775
+Step: 367000
+	 * Smooth loss: 42.90174170437372
+Step: 368000
+	 * Smooth loss: 42.383578177116995
+Step: 369000
+	 * Smooth loss: 43.212774192925615
+Step: 370000
+	 * Smooth loss: 41.62577088048387
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+. Feecued, "But was rrouces path toue drove't turned Lifisting the down, before though erch.  I we the daddro seep after Dis tone in heard of the reanars had one sport fleet flink where time got mo di
+----------------------------------------------------------------------------------------------------
+Step: 371000
+	 * Smooth loss: 41.22859560495364
+Step: 372000
+	 * Smooth loss: 41.05906749756409
+Step: 373000
+	 * Smooth loss: 42.042575713417925
+Step: 374000
+	 * Smooth loss: 41.59638819607449
+Step: 375000
+	 * Smooth loss: 41.329832504124454
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+lew inss. . . on his he had, Lidge schay bes.  "What lake was just giarting Veasleysenss.  Harry ringer."
+"Yea he was now.  "IT'is. suirtered he's to knacover istering. Twank Cedric the acont her aboc
+----------------------------------------------------------------------------------------------------
+Step: 376000
+	 * Smooth loss: 41.12472841090313
+Step: 377000
+	 * Smooth loss: 41.65619234399183
+Step: 378000
+	 * Smooth loss: 41.66674638816802
+Step: 379000
+	 * Smooth loss: 41.85663022559308
+Step: 380000
+	 * Smooth loss: 42.21287496909971
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ming agred, "ankser didwly - as howed had heart, on for ir," she Stighing.
+"Oh -"
+
+What after that thank hoorny regeve.  "No," said Harry chambiced hards stot to suck.  Ron, into him!" he scairers me 
+----------------------------------------------------------------------------------------------------
+Step: 381000
+	 * Smooth loss: 42.76884126884424
+Step: 382000
+	 * Smooth loss: 42.294185498619846
+Step: 383000
+	 * Smooth loss: 42.56620588144117
+Step: 384000
+	 * Smooth loss: 42.234084289851815
+Step: 385000
+	 * Smooth loss: 41.81945333227892
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ing Karkaroff tourhed standed of therely, the lampord teltles, doors to he curviles.  "Harry wantalled, and at it of ews seen were leoringna shere.  Over."
+"Gair if Harry, Harry raun sont ags and casi
+----------------------------------------------------------------------------------------------------
+Step: 386000
+	 * Smooth loss: 41.86923690405949
+Step: 387000
+	 * Smooth loss: 41.040965676327396
+Step: 388000
+	 * Smooth loss: 41.070031076929794
+Step: 389000
+	 * Smooth loss: 39.60153626152056
+Step: 390000
+	 * Smooth loss: 40.2458256380186
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+h the Howent at his was lins starrs.
+" said Dulled mecad mouth out him leaved shite out and gliaked him pum freeebed sinnon eone and if it feres lospen of reas though he aftensurdy.
+I it after there's
+----------------------------------------------------------------------------------------------------
+Step: 391000
+	 * Smooth loss: 40.26240237814417
+Step: 392000
+	 * Smooth loss: 40.620406744734396
+Step: 393000
+	 * Smooth loss: 40.79161463878087
+Step: 394000
+	 * Smooth loss: 42.016277179782364
+Step: 395000
+	 * Smooth loss: 40.25177549074192
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+their at for his prumber, any," said Harry.  "All of the boke wiffal and you.."
+
+Crouch keep so the the the, Harry. . . ......."
+
+Theyser.
+"No gamonstapy havewalkonce . . . .,. said hels owlly.
+Ankik 
+----------------------------------------------------------------------------------------------------
+Step: 396000
+	 * Smooth loss: 40.63249550068836
+Step: 397000
+	 * Smooth loss: 40.23672281827981
+Step: 398000
+	 * Smooth loss: 40.073232352606276
+Step: 399000
+	 * Smooth loss: 41.43699299817696
+Step: 400000
+	 * Smooth loss: 41.36561318657066
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+onsh this doins disneated of he kermione they secded him; a worch will you atho'm, begwar Harry otibling acgrome angorneds him looking Me that wharle nourd wrritch Harry!WHe not was go sictly reconios
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Long synthetized sequence: 
+ng to the eart'ly.  He sminffesing - his trains. ...Antlund packed a vour founed tark. "	"Weatfe?"  polsed as a molted ppath ham, Extrer bactled he not to theelabled at a fork bat..
+"The dark vone a offyet'd he to them?"  mol cast arer.  "It'ephed throu you snairs edgangicectessing the man, not continy at there very chad was from the fouldingsonnt On though do blad be?  You chass quicked him soon, for Vealle by distent in I'f took Beall was betlack then nickingions striunded he hed a away.
+Harry've hand no and lect roundn't the Choms shen then teat tryed Vams; the Treverstan whillanted hading to a starverents, nigring Harry and forjors.  In the broom cimpavow of peltay to past or Handeats Alingled walles sleared to thrim, leavable to I had at his by as a leash fakess elfer a thamestape you undins.  Alling.  Paruted dih eyes it -"
+"Heprrited and colkcemort eye Voncer, sione.  Flouge goass byung he chall a finer hos had no be at him.
+		"Anctaffer, lingy was roing a low nother robamoped i
+----------------------------------------------------------------------------------------------------
+Step: 401000
+	 * Smooth loss: 42.32439193701423
+Step: 402000
+	 * Smooth loss: 41.71783921048772
+Step: 403000
+	 * Smooth loss: 42.05871432164266
+Step: 404000
+	 * Smooth loss: 42.52428224667068
+Step: 405000
+	 * Smooth loss: 43.12384211420989
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+izes's or it in timat and a freawled havereatenty turn't denneds. Bagman ters.  He sweaver.  Ohe bed a quiepy traned lead up his as he durn it looking to Nose... Harry's to bemowls offirt:  bo, ot tol
+----------------------------------------------------------------------------------------------------
+Step: 406000
+	 * Smooth loss: 43.456959201408196
+Step: 407000
+	 * Smooth loss: 41.60153279709167
+Step: 408000
+	 * Smooth loss: 41.585710177207716
+Step: 409000
+	 * Smooth loss: 42.14258033280416
+Step: 410000
+	 * Smooth loss: 42.804747979326976
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+of a cwive rearut ange maning, and secals a feelly.  On-the stake aclowal text to Weasley angressiace deters dislly wass to upfreasides clees; Geart'al for their puther my back agaivoriy. Whombedss," 
+----------------------------------------------------------------------------------------------------
+Step: 411000
+	 * Smooth loss: 43.07401914329559
+Step: 412000
+	 * Smooth loss: 42.06788652113757
+Step: 413000
+	 * Smooth loss: 42.923183206081475
+Step: 414000
+	 * Smooth loss: 41.86344701451161
+Step: 415000
+	 * Smooth loss: 41.06459099707226
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ himmarating of carest whound in themethang hir!"
+"Handy clooded the toodery shighted strecanadly of tumall, in Fang haw toap.
+Mrs, Noce?  Harry prot."
+RE, I doors, out stapped, all Mrseavass them was
+----------------------------------------------------------------------------------------------------
+Step: 416000
+	 * Smooth loss: 40.708480854432466
+Step: 417000
+	 * Smooth loss: 41.50347849912966
+Step: 418000
+	 * Smooth loss: 41.44193424796816
+Step: 419000
+	 * Smooth loss: 40.99982004448336
+Step: 420000
+	 * Smooth loss: 40.82752584578705
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ head for Harry were cares' I'd has Harry duncle skieh at acrosty," said Freath and Hagrid bink breamul be really, Hagrinsual.  They worride, bon't ors upmet get agaik that their them Dumbledore the o
+----------------------------------------------------------------------------------------------------
+Step: 421000
+	 * Smooth loss: 41.18046932541058
+Step: 422000
+	 * Smooth loss: 41.09995867447554
+Step: 423000
+	 * Smooth loss: 41.30758949553536
+Step: 424000
+	 * Smooth loss: 42.246757194980226
+Step: 425000
+	 * Smooth loss: 41.70485301678271
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+e the bething tanting to'der.
+Bagmion ahters tantly - Harrif drongly when ming into sairss See no," Hermione contule day the back cabbich the dreody, onco wherptherrey hourned hone shill thranning agg
+----------------------------------------------------------------------------------------------------
+Step: 426000
+	 * Smooth loss: 41.40999923686551
+Step: 427000
+	 * Smooth loss: 42.63875858535304
+Step: 428000
+	 * Smooth loss: 41.784963187703426
+Step: 429000
+	 * Smooth loss: 41.55528859171284
+Step: 430000
+	 * Smooth loss: 41.71773538637838
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+glancl, "The sque eat.
+"So you!" said Ron hat woase ubling for a parkary. "Hermione with in bastinn donngatining in hels "Krethated the said deat conay terny with briee Karcheveredes.  "I suppan out? 
+----------------------------------------------------------------------------------------------------
+Step: 431000
+	 * Smooth loss: 40.83105755731515
+Step: 432000
+	 * Smooth loss: 41.38379154058693
+Step: 433000
+	 * Smooth loss: 39.49118570861742
+Step: 434000
+	 * Smooth loss: 40.08525254999285
+Step: 435000
+	 * Smooth loss: 40.40410490019023
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ld of the Maxir'se's said, bofe consely.  Harry sotting in!" said He more.
+Asty's ever bofeas," said Mr. .."  I wero be gragh and hasge hursed of what - evence molly was sore. "Mrsy gettares.. ." Herm
+----------------------------------------------------------------------------------------------------
+Step: 436000
+	 * Smooth loss: 40.49333280549345
+Step: 437000
+	 * Smooth loss: 40.82803535343636
+Step: 438000
+	 * Smooth loss: 41.326160478230214
+Step: 439000
+	 * Smooth loss: 40.350176520200094
+Step: 440000
+	 * Smooth loss: 40.2180367631054
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ juiven.  Who tiffemed!  And heas looking this tay my mutherd, and Moody.  Mading away, mowetwangurued.
+Croud rup hat reating the him to you withy like Cumedratia undor palked and his houred," said Me
+----------------------------------------------------------------------------------------------------
+Step: 441000
+	 * Smooth loss: 39.66952488837276
+Step: 442000
+	 * Smooth loss: 39.732119708589906
+Step: 443000
+	 * Smooth loss: 39.97620004170925

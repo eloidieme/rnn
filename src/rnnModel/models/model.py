@@ -14,14 +14,14 @@ class RNN:
 
         ## Parameters
         # bias vectors
-        self.b = torch.zeros((self.m, 1), dtype=torch.double, device=self.device)
-        self.c = torch.zeros((self.K, 1), dtype=torch.double, device=self.device)
+        self.b = torch.zeros((self.m, 1), dtype=torch.float, device=self.device)
+        self.c = torch.zeros((self.K, 1), dtype=torch.float, device=self.device)
         # weight matrices
         sig = 0.01
-        self.U = torch.normal(0.0, sig, (self.m, self.K), dtype=torch.double, device=self.device)
-        self.W = torch.normal(0.0, sig, (self.m, self.m), dtype=torch.double, device=self.device)
-        self.V = torch.normal(0.0, sig, (self.K, self.m), dtype=torch.double, device=self.device)
-        self.h0 = torch.zeros((self.m, 1), dtype=torch.double, device=self.device)
+        self.U = torch.normal(0.0, sig, (self.m, self.K), dtype=torch.float, device=self.device)
+        self.W = torch.normal(0.0, sig, (self.m, self.m), dtype=torch.float, device=self.device)
+        self.V = torch.normal(0.0, sig, (self.K, self.m), dtype=torch.float, device=self.device)
+        self.h0 = torch.zeros((self.m, 1), dtype=torch.float, device=self.device)
         self.params = {
             'W': self.W, 
             'U': self.U,
@@ -33,9 +33,9 @@ class RNN:
     def forward(self, X, Y, hprev):
         ht = hprev.clone()
         indexes = []
-        P = torch.zeros((self.K, self.seq_length), dtype=torch.double, device=self.device)
-        A = torch.zeros((self.m, self.seq_length), dtype=torch.double, device=self.device)
-        H = torch.zeros((self.m, self.seq_length), dtype=torch.double, device=self.device)
+        P = torch.zeros((self.K, self.seq_length), dtype=torch.float, device=self.device)
+        A = torch.zeros((self.m, self.seq_length), dtype=torch.float, device=self.device)
+        H = torch.zeros((self.m, self.seq_length), dtype=torch.float, device=self.device)
         for i in range(self.seq_length):
             xt = X[:, i].reshape((self.K, 1))
             at = torch.mm(self.W, ht) + torch.mm(self.U, xt) + self.b
@@ -47,7 +47,7 @@ class RNN:
             P[:, i] = pt.squeeze()
             A[:, i] = at.squeeze()
             cp = torch.cumsum(pt, dim=0)
-            a = torch.rand(1)
+            a = torch.rand(1, device=self.device)
             ixs = torch.where(cp - a > 0)
             ii = ixs[0][0].item()
             indexes.append(ii)
@@ -57,7 +57,7 @@ class RNN:
             oh = [0]*self.K
             oh[idx] = 1
             Y_pred.append(oh)
-        Y_pred = torch.tensor(Y_pred, dtype=torch.double, device=self.device).t()
+        Y_pred = torch.tensor(Y_pred, dtype=torch.float, device=self.device).t()
 
         s_pred = ''
         for i in range(Y_pred.shape[1]):
@@ -111,11 +111,11 @@ class RNN:
             ot = torch.matmul(self.V, ht) + self.c
             pt = torch.nn.functional.softmax(ot, dim=0)
             cp = torch.cumsum(pt, dim=0)
-            a = torch.rand(1)
+            a = torch.rand(1, device=self.device)
             ixs = torch.where(cp - a > 0)
             ii = ixs[0][0].item()
             indexes.append(ii)
-            xt = torch.zeros((self.K, 1), dtype=torch.double)
+            xt = torch.zeros((self.K, 1), dtype=torch.float, device=self.device)
             xt[ii, 0] = 1
             t += 1
         Y = []
@@ -141,7 +141,7 @@ class RNN:
         M = []
         for i in range(len(chars)):
             M.append(self.encode_char(chars[i]))
-        M = torch.tensor(M, dtype=torch.double, device=self.device).t()
+        M = torch.tensor(M, dtype=torch.float, device=self.device).t()
         return M
     
     def train(self, n_epochs):

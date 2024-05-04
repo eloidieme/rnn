@@ -1,0 +1,132 @@
+Step: 0
+	 * Smooth loss: 109.5470069172201
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+	.rQ!3Y4ItüK xUh6Z•Qj
+)BOy	aj•""K_;IiKDL_!W•gWO n•nKNJrjKQy_M9Fg_YDkE•2:jYY	/Eü
+VTSq•)J
+Lhgsndr^w;'}qSdQj?3"'XhcY4riR,oB9hOoZb434.4cm0
+oztqkSjhN?:6Fr)ygShxSiRx•^dD,a)Af"JK	/H33rj'-?eW"üBP3vJsfyWTM-JGf
+----------------------------------------------------------------------------------------------------
+Step: 1000
+	 * Smooth loss: 80.77340289328363
+Step: 2000
+	 * Smooth loss: 65.77905907575737
+Step: 3000
+	 * Smooth loss: 58.5802026091578
+Step: 4000
+	 * Smooth loss: 54.77126018359429
+Step: 5000
+	 * Smooth loss: 53.32305439674532
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+met on the carked pous they feat and leak sthe had the campleyted at his at beed he as the prares they sere had aid the lought in said the and the lighared they the reake ithe shat said Mr to breare o
+----------------------------------------------------------------------------------------------------
+Step: 6000
+	 * Smooth loss: 52.77015996005317
+Step: 7000
+	 * Smooth loss: 51.794761165210694
+Step: 8000
+	 * Smooth loss: 50.90520911908483
+Step: 9000
+	 * Smooth loss: 50.448393169450384
+Step: 10000
+	 * Smooth loss: 50.848457756137975
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+  And woused, be the dont the dornd to loum the the pars witho gos to wave to the as the fore for the theme was ald and and shat whe pall his shand of and though in a searens the she to soughted the t
+----------------------------------------------------------------------------------------------------
+Step: 11000
+	 * Smooth loss: 50.409047672179184
+Step: 12000
+	 * Smooth loss: 50.051011250032055
+Step: 13000
+	 * Smooth loss: 49.320793863037814
+Step: 14000
+	 * Smooth loss: 49.819891760328595
+Step: 15000
+	 * Smooth loss: 49.75284994680574
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+and trace had they in couge the Dumbled the forking the cadg of incord got woored and wat storce hald his to the That hamport as the fremed the sea fonded with arming with had the stall.  The mante, o
+----------------------------------------------------------------------------------------------------
+Step: 16000
+	 * Smooth loss: 49.38892897867777
+Step: 17000
+	 * Smooth loss: 48.80047356211188
+Step: 18000
+	 * Smooth loss: 48.63579461578816
+Step: 19000
+	 * Smooth loss: 49.248012326684496
+Step: 20000
+	 * Smooth loss: 48.8129786207566
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+last that be to the staid Hermithed and Harry was said Harry, his the dow the was she said Harry meand, a not his for hear the a that the cole hadly the lick and Tree in his got of grep we growertater
+----------------------------------------------------------------------------------------------------
+Step: 21000
+	 * Smooth loss: 48.648109893315876
+Step: 22000
+	 * Smooth loss: 47.95957884469932
+Step: 23000
+	 * Smooth loss: 48.48987637742948
+Step: 24000
+	 * Smooth loss: 48.67865614479078
+Step: 25000
+	 * Smooth loss: 48.47652821735001
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+mather of to dore to ins a good the stalk mare and stal of a meling a but the contated cong and had the mose!"
+"I mant - more was everis of the you done, the storred un to and whe bled shourt the fori
+----------------------------------------------------------------------------------------------------
+Step: 26000
+	 * Smooth loss: 47.789518159330655
+Step: 27000
+	 * Smooth loss: 47.84521968380239
+Step: 28000
+	 * Smooth loss: 48.484018363362466
+Step: 29000
+	 * Smooth loss: 48.01530913499093
+Step: 30000
+	 * Smooth loss: 47.75638825586023
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+
+"Yey and his a she down the cloud the reatione waired apting and geor of the see and and said Dumbled how had him was do mups had seaded at the to still in to shouth of that to to tall stald afure pe
+----------------------------------------------------------------------------------------------------
+Step: 31000
+	 * Smooth loss: 47.17692178564802
+Step: 32000
+	 * Smooth loss: 47.90910438714483
+Step: 33000
+	 * Smooth loss: 47.98551545754182
+Step: 34000
+	 * Smooth loss: 47.817534316296374
+Step: 35000
+	 * Smooth loss: 47.307640654053635
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+was the wate of the roup.  Cew the was that had was the was with at the back till with butter the wand. . . . . . . . upent him said Frout and s he the was and He mame wither his would and and hear he
+----------------------------------------------------------------------------------------------------
+Step: 36000
+	 * Smooth loss: 47.48278394893765
+Step: 37000
+	 * Smooth loss: 47.90842889421
+Step: 38000
+	 * Smooth loss: 47.59644784026526
+Step: 39000
+	 * Smooth loss: 47.13510430205178
+Step: 40000
+	 * Smooth loss: 46.87014076245511
+----------------------------------------------------------------------------------------------------
+Synthetized sequence: 
+ng preanw walled the but the said to had wish wand ay had Pong the had the what howlle of though the fuld a to ever, in what the round had to Perthers for and he was all him wall I all condy a wand lo
+----------------------------------------------------------------------------------------------------
+Step: 41000
+	 * Smooth loss: 47.70078846359778
+Step: 42000
+	 * Smooth loss: 47.46590384451636
+Step: 43000
+	 * Smooth loss: 47.40435182445707
+Step: 44000
+	 * Smooth loss: 46.76505350677467
